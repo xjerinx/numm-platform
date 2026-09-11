@@ -1,0 +1,119 @@
+// Prisma Schema for NUMM Platform (Default: SQLite for turnkey local run; Postgres for production)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  password  String
+  name      String
+  role      String   @default("CPSE_ANALYST") // SUPER_ADMIN, CPSE_ANALYST, REVIEWER
+  cpseCode  String?
+  createdAt DateTime @default(now())
+}
+
+model Material {
+  id               String   @id @default(uuid())
+  cpseCode         String
+  materialNumber   String
+  localDescription String
+  localClassCode   String?
+  uom              String?
+  status           String   @default("Active") // Active, Inactive, Obsolete, Duplicate
+  unspscCommodity  String?
+  unspscName       String?
+  confidenceScore  Float?
+  mappedBy         String?  // Legacy, AI, Manual
+  nmcCode          String?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  @@index([cpseCode])
+  @@index([materialNumber])
+  @@index([status])
+  @@index([nmcCode])
+}
+
+model HarmonizedMaterial {
+  id                  String        @id @default(uuid())
+  nmcCode             String        @unique
+  standardDescription String
+  unspscCode          String
+  unspscName          String
+  uom                 String
+  approvedBy          String
+  approvedAt          DateTime      @default(now())
+  mappings            CpseMapping[]
+
+  @@index([nmcCode])
+  @@index([unspscCode])
+}
+
+model CpseMapping {
+  id                   String             @id @default(uuid())
+  harmonizedMaterialId String
+  cpseCode             String
+  localMaterialNumber  String
+  harmonizedMaterial   HarmonizedMaterial @relation(fields: [harmonizedMaterialId], references: [id], onDelete: Cascade)
+
+  @@index([harmonizedMaterialId])
+  @@index([cpseCode, localMaterialNumber])
+}
+
+model DuplicatePair {
+  id           String    @id @default(uuid())
+  materialAId  String
+  materialBId  String
+  similarity   Float
+  suggestedNmc String?
+  status       String    @default("PENDING") // PENDING, APPROVED, REJECTED
+  reviewedBy   String?
+  reviewedAt   DateTime?
+  createdAt    DateTime  @default(now())
+
+  @@index([materialAId])
+  @@index([materialBId])
+  @@index([status])
+}
+
+model AuditLog {
+  id        String   @id @default(uuid())
+  userId    String
+  action    String
+  entity    String
+  entityId  String
+  oldValue  String?  // JSON string
+  newValue  String?  // JSON string
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+  @@index([entity])
+  @@index([entityId])
+  @@index([createdAt])
+}
+
+model ApiKey {
+  id        String    @id @default(uuid())
+  name      String
+  key       String    @unique
+  cpseCode  String?
+  status    String    @default("ACTIVE")
+  createdAt DateTime  @default(now())
+  lastUsed  DateTime?
+}
+
+model Webhook {
+  id        String   @id @default(uuid())
+  url       String
+  events    String
+  secret    String
+  status    String   @default("ACTIVE")
+  createdAt DateTime @default(now())
+}

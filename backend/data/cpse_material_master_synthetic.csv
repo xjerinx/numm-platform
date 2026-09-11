@@ -1,0 +1,910 @@
+CPSE_Code,CPSE_Name,Material_Number,Local_Description,Local_Class_Code,UOM,Status,UNSPSC_Commodity,UNSPSC_Commodity_Name,UNSPSC_Class,UNSPSC_Class_Name,UNSPSC_Segment,UNSPSC_Segment_Name,Confidence_Score,Mapped_By
+ONGC,Oil & Natural Gas Corporation,ONG-216739,AIR VELOCITY AND TEMPERATURE MONITORS,ON859-45,KG,Obsolete,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-207473,highlighters,ON704-64,NOS,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-343962,FEED HORNS,ON674-35,BOX,Inactive,41115202,Feed horns,41115200,Radar and sonar systems and components,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.61,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-948749,STAINLESS STEEL PROFILE EXTRUSIONS,ON877-30,SET,Active,31111513,Stainless steel profile extrusions,31111500,Profile extrusions,31000000,Manufacturing Components and Supplies,0.58,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-207175,electron microscopes,ON489-22,SET,Duplicate,41111711,Electron microscopes,41111700,Viewing and observing instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.63,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-865179,GD-AMMONIA ,ON649-25,MTR,Active,47101502,Ammonia removal equipment,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.78,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-705397,Srotinom Erutarepmet Dna Yticolev Ria,ON821-18,MT,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-183667,Ylbmessa Nmuloc Pmup,ON987-22,SQM,Obsolete,40151735,Pump column assembly,40151700,Pump parts and accessories,40000000,Distribution and Conditioning Systems and Equipment and Components,0.92,AI
+ONGC,Oil & Natural Gas Corporation,ONG-488162,Plastic bonded off tool anisotropic ferrous aluminum nickel cobalt magnet Assy,ON314-95,NOS,Duplicate,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-765822,DISPLAY_TILT_MECHANISM,ON646-41,MTR,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-771088,Snoisurtxe Dloc Denihcam Yolla Lekcin,ON801-51,EA,Active,31291319,Nickel alloy machined cold extrusions,31291300,Machined cold extrusions,31000000,Manufacturing Components and Supplies,0.91,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-520651,Item-Managed-lease-line-network-MLLN-equipment,ON167-37,PKT,Obsolete,43222638,Managed lease line network MLLN equipment,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.66,
+ONGC,Oil & Natural Gas Corporation,ONG-514850,GD-CPVC PLA,ON246-43,BOX,Duplicate,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-375504,"Computer or notebook stands, Industrial Grade",ON697-61,KG,Duplicate,43211613,Computer or notebook stands,43211600,Computer accessories,43000000,Information Technology Broadcasting and Telecommunications,0.75,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-214975,LABORATORY_FREEZER_OR_REFRIGERATOR_THERMOMETERS,ON742-30,MTR,Duplicate,41112220,Laboratory freezer or refrigerator thermometers,41112200,Temperature and heat measuring instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.53,
+ONGC,Oil & Natural Gas Corporation,ONG-724834,GD-SINGLE C,ON641-42,EA,Obsolete,26121810,Single core 600 volt class a automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.86,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-905934,Flowmeters Assy,ON214-47,SQM,Active,41112501,Flowmeters,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.98,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-624902,TAMPER_PROOF_OR_SECURITY_SEALS,ON619-23,LTR,Obsolete,24141504,Tamper proof or security seals,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.75,AI
+ONGC,Oil & Natural Gas Corporation,ONG-260263,Alcoholometer Assy,ON880-30,BOX,Active,41113038,Alcoholometer,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.8,
+ONGC,Oil & Natural Gas Corporation,ONG-120422,microscope slide racks,ON471-49,MT,Duplicate,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-182582,plastic bonded off tool isotropic barium ferrite magnet,ON849-72,BOX,Active,31381435,Plastic bonded off tool isotropic barium ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.56,
+ONGC,Oil & Natural Gas Corporation,ONG-676510,IMPEDANCE_METERS,ON371-77,MTR,Active,41113621,Impedance meters,41113600,Electrical measuring and testing equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.96,AI
+ONGC,Oil & Natural Gas Corporation,ONG-847581,Item-Stainless-steel-bonded-plate-assemblies,ON508-95,SQM,Duplicate,31361109,Stainless steel bonded plate assemblies,31361100,Bonded plate assemblies,31000000,Manufacturing Components and Supplies,0.73,AI
+ONGC,Oil & Natural Gas Corporation,ONG-335612,piezo electric crystals,ON446-12,MT,Duplicate,41112101,Piezo electric crystals,41112100,Transducers,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.61,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-842225,SLUDGE OR SEWAGE COMPOSTING EQUIPMENT,ON334-18,SET,Active,47101524,Sludge or sewage composting equipment,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.76,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-801474,GD-KITS FOR,ON319-79,PKT,Duplicate,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-595631,Srethgilhgih,ON903-70,MT,Active,44121716,Highlighters,44121700,Writing instruments,44000000,Office Equipment and Accessories and Supplies,0.55,
+ONGC,Oil & Natural Gas Corporation,ONG-471507,"Conjugated nucleotides or oligomers, Industrial Grade",ON520-69,EA,Obsolete,41105327,Conjugated nucleotides or oligomers,41105300,Laboratory electrophoresis and blotting system and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.83,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-163556,"Countersunk washer, Industrial Grade",ON845-53,NOS,Active,31161832,Countersunk washer,31161800,Washers,31000000,Manufacturing Components and Supplies,0.6,
+ONGC,Oil & Natural Gas Corporation,ONG-246991,"Carbon steel bonded pipe assemblies, Industrial Grade",ON287-45,NOS,Inactive,31311702,Carbon steel bonded pipe assemblies,31311700,Bonded pipe assemblies,31000000,Manufacturing Components and Supplies,0.9,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-153045,TEXTILES FASTNESS TESTERS,ON195-40,SQM,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-324130,"Fatigue testers, Industrial Grade",ON160-31,MTR,Active,41114608,Fatigue testers,41114600,Metals and metallurgy and structural materials testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.96,
+ONGC,Oil & Natural Gas Corporation,ONG-399105,"CPVC plastic pipe cross, Industrial Grade",ON813-81,SQM,Active,40172709,CPVC plastic pipe cross,40172700,Pipe crosses,40000000,Distribution and Conditioning Systems and Equipment and Components,0.59,AI
+ONGC,Oil & Natural Gas Corporation,ONG-161324,ROUGH TERRAIN CRANES,ON865-50,PKT,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-627276,AMMONIA_REMOVAL_EQUIPMENT,ON158-75,KG,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-723939,flocculents,ON791-40,PKT,Active,47101608,Flocculents,47101600,Water treatment consumables,47000000,Cleaning Equipment and Supplies,0.79,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-749468,mounting profiles,ON529-94,BOX,Active,31162301,Mounting profiles,31162300,Mounting hardware,31000000,Manufacturing Components and Supplies,0.97,AI
+ONGC,Oil & Natural Gas Corporation,ONG-802258,Brushless coolant pump Assy,ON344-43,LTR,Inactive,40151575,Brushless coolant pump,40151500,Pumps,40000000,Distribution and Conditioning Systems and Equipment and Components,0.66,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-109767,GD-URINALYS,ON736-82,NOS,Duplicate,41116137,Urinalysis reagents or solutions or stains,41116100,Manual test kits and quality controls and calibrators and standards,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.61,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-238890,Hastalloy X riveted bar stock assemblies Assy,ON170-41,KG,Inactive,31321303,Hastalloy X riveted bar stock assemblies,31321300,Riveted bar stock assemblies,31000000,Manufacturing Components and Supplies,0.92,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-741390,LEAD IMPACT EXTRUSIONS,ON783-80,NOS,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-377312,battery driven whiteboard eraser,ON209-80,LTR,Duplicate,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-320861,Plastic bonded coated anisotropic ferrite magnet Assy,ON308-97,LTR,Duplicate,31381429,Plastic bonded coated anisotropic ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.74,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-196781,"Automotive HVAC actuator, Industrial Grade",ON949-45,SET,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-768061,Item-Serological-pipettes,ON265-66,MTR,Duplicate,41121511,Serological pipettes,41121500,Pipettes and liquid handling equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.5,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-824586,HOT_FORGED_HEAT_TREATED_BERYLLIUM_FORGING,ON658-14,PKT,Duplicate,31133010,Hot forged heat treated beryllium forging,31133000,Beryllium forgings,31000000,Manufacturing Components and Supplies,0.57,AI
+ONGC,Oil & Natural Gas Corporation,ONG-143860,Item-Bronze-centrifugal-machined-castings,ON473-15,MT,Obsolete,31121712,Bronze centrifugal machined castings,31121700,Machined centrifugal castings,31000000,Manufacturing Components and Supplies,0.62,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-470858,"Centrifugal pumps, Industrial Grade",ON735-29,MT,Active,40151503,Centrifugal pumps,40151500,Pumps,40000000,Distribution and Conditioning Systems and Equipment and Components,0.99,AI
+ONGC,Oil & Natural Gas Corporation,ONG-532322,REFLECTIVE TAPE,ON283-52,MTR,Obsolete,31201516,Reflective tape,31201500,Tape,31000000,Manufacturing Components and Supplies,0.93,AI
+ONGC,Oil & Natural Gas Corporation,ONG-379766,NETWORK_SECURITY_AND_VIRTUAL_PRIVATE_NETWORK_VPN_EQUIPMENT_SOFTWARE,ON906-99,EA,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-333238,Srelaes Ro Srenoisnet Gnipparts,ON936-68,MT,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-124813,Sehcaelb,ON508-52,NOS,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-468203,"Digital cross connects DCX equipment, Industrial Grade",ON795-78,EA,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-373903,WATER_METER_PROTECTION_TUB,ON694-43,PKT,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-462479,Personal organizers Assy,ON546-87,NOS,Inactive,44111516,Personal organizers,44111500,Organizers and accessories,44000000,Office Equipment and Accessories and Supplies,0.95,AI
+ONGC,Oil & Natural Gas Corporation,ONG-367095,FUEL INJECTOR COIL DIESEL,ON825-65,BOX,Obsolete,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-854377,Seilbmessa Larutcurts Detevir Reppoc,ON472-65,SET,Duplicate,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-429164,hot forged machined zinc forging,ON837-48,MTR,Active,31133209,Hot forged machined zinc forging,31133200,Zinc forgings,31000000,Manufacturing Components and Supplies,0.7,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-681343,HIGHLIGHTERS,ON296-63,MTR,Obsolete,44121716,Highlighters,44121700,Writing instruments,44000000,Office Equipment and Accessories and Supplies,0.87,AI
+ONGC,Oil & Natural Gas Corporation,ONG-745414,Item-Plastic-bonded-off-tool-anisotropic-ferrous-aluminum-nickel-cobalt-magnet,ON515-80,LTR,Active,31381444,Plastic bonded off tool anisotropic ferrous aluminum nickel cobalt magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.61,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-587575,GD-COLD FOR,ON552-96,SQM,Obsolete,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-277934,conjugated nucleotides or oligomers,ON390-75,PKT,Active,41105327,Conjugated nucleotides or oligomers,41105300,Laboratory electrophoresis and blotting system and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.55,AI
+ONGC,Oil & Natural Gas Corporation,ONG-805477,Item-Sisal-rope,ON330-35,EA,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-598216,rubber machined impact extrusions,ON566-63,PKT,Active,31291212,Rubber machined impact extrusions,31291200,Machined impact extrusions,31000000,Manufacturing Components and Supplies,0.86,
+ONGC,Oil & Natural Gas Corporation,ONG-618392,"Capstan, Industrial Grade",ON349-28,EA,Active,24101651,Capstan,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.89,AI
+ONGC,Oil & Natural Gas Corporation,ONG-284430,GD-HYDRAULI,ON151-81,NOS,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-239816,GD-BATTERY ,ON783-77,PKT,Active,44111913,Battery driven whiteboard eraser,44111900,Boards,44000000,Office Equipment and Accessories and Supplies,0.98,
+ONGC,Oil & Natural Gas Corporation,ONG-742412,"Tape arrays, Industrial Grade",ON950-80,KG,Obsolete,43201806,Tape arrays,43201800,Media storage devices,43000000,Information Technology Broadcasting and Telecommunications,0.93,
+ONGC,Oil & Natural Gas Corporation,ONG-371782,Snoisurtxe Tcapmi Yolla Suorref Non,ON960-91,BOX,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-757193,Gnigrof Muillyreb Detaert Taeh Dna Denihcam Degrof Dloc,ON381-66,LTR,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-384913,Kits for polymerase chain reaction PCR purification Assy,ON427-79,KG,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-501641,METAL_CLEANERS_OR_POLISHES,ON823-37,MTR,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-668969,GD-ABS PLAS,ON525-17,MTR,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-907189,POROUS BLOCKS,ON977-83,EA,Active,31371301,Porous blocks,31371300,Shaped refractories,31000000,Manufacturing Components and Supplies,0.65,
+ONGC,Oil & Natural Gas Corporation,ONG-994905,"Dock plates, Industrial Grade",ON651-79,MT,Inactive,24101807,Dock plates,24101800,Dock equipment,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.61,
+ONGC,Oil & Natural Gas Corporation,ONG-609232,CLOTHES DRYERS,ON498-53,MTR,Obsolete,47111503,Clothes dryers,47111500,Washing and drying equipment,47000000,Cleaning Equipment and Supplies,0.58,
+ONGC,Oil & Natural Gas Corporation,ONG-233827,FERROUS ALLOY V PROCESS CASTING,ON503-85,EA,Active,31102402,Ferrous alloy v process casting,31102400,V process castings,31000000,Manufacturing Components and Supplies,0.82,AI
+ONGC,Oil & Natural Gas Corporation,ONG-584125,VACUUM_OR_ROTARY_EVAPORATORS,ON151-43,MT,Inactive,41104804,Vacuum or rotary evaporators,41104800,Laboratory decanting and distilling and evaporating and extracting equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.66,
+ONGC,Oil & Natural Gas Corporation,ONG-391773,"Magnetometer geophysical instruments, Industrial Grade",ON358-20,BOX,Active,41113806,Magnetometer geophysical instruments,41113800,Geophysical and geotechnical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,1.0,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-335113,brass riveted structural assemblies,ON899-93,EA,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-309044,BRONZE CENTRIFUGAL MACHINED CASTINGS,ON736-29,SQM,Obsolete,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-219946,Elbat Krow Yrdnual,ON576-99,SET,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-735324,kaptan wire,ON896-30,NOS,Duplicate,26121533,Kaptan wire,26121500,Electrical wire,26000000,Power Generation and Distribution Machinery and Accessories,0.51,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-703766,"Impeller wheels, Industrial Grade",ON506-35,MT,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-831059,Item-General-purpose-cleaners,ON970-97,NOS,Duplicate,47131805,General purpose cleaners,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.89,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-658623,"Metal cleaners or polishes, Industrial Grade",ON777-57,SET,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-990844,"Extruded copper multiport tube, Industrial Grade",ON942-72,SET,Obsolete,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-968962,GD-ROUGH TE,ON824-29,BOX,Obsolete,24101622,Rough terrain cranes,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.64,
+ONGC,Oil & Natural Gas Corporation,ONG-587455,"Kits for messenger ribonucleic acid mRNA quantitation by polymerase chain reaction PCR, Industrial Grade",ON945-85,MT,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-392477,GD-PRESSURE,ON349-69,MTR,Active,41112404,Pressure regulator,41112400,Pressure measuring and control instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-290672,GD-PRESSURE,ON317-55,SET,Active,41112412,Pressure gauge,41112400,Pressure measuring and control instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.94,Legacy
+ONGC,Oil & Natural Gas Corporation,ONG-682789,SINGLE CORE 600 VOLT CLASS G AUTOMOTIVE CABLE,ON629-34,MTR,Inactive,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-682144,Part S,ON807-70,SQM,Inactive,40142515,S trap,40142500,Traps and strainers,40000000,Distribution and Conditioning Systems and Equipment and Components,0.9,Manual
+ONGC,Oil & Natural Gas Corporation,ONG-408528,Gnigrof Leets Denihcam Degrof Mraw,ON514-98,PKT,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-596249,Microbiology or bacteriology quality controls or calibrators or standards Assy,ON535-80,SQM,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-421517,Item-Laboratory-clamps,ON336-25,SET,Active,41122413,Laboratory clamps,41122400,Laboratory implements,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.87,AI
+ONGC,Oil & Natural Gas Corporation,ONG-300845,Eguag Htped Erit,ON856-71,PKT,Duplicate,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-725780,Item-HDPE-plastic-pipe-wye,ON202-34,SET,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-416950,SEROLOGICAL PIPETTES,ON825-78,EA,Active,,,,,,,,
+ONGC,Oil & Natural Gas Corporation,ONG-680238,Item-Non-electrical-aluminum-cables,ON814-26,SQM,Active,31151707,Non electrical aluminum cables,31151700,Mechanical cable,31000000,Manufacturing Components and Supplies,0.94,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-601968,GD-BIOLOGIC,BH448-33,LTR,Inactive,40161808,Biological filter media,40161800,Filter media,40000000,Distribution and Conditioning Systems and Equipment and Components,0.56,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-520172,GD-CPVC PLA,BH175-83,EA,Active,40172709,CPVC plastic pipe cross,40172700,Pipe crosses,40000000,Distribution and Conditioning Systems and Equipment and Components,0.57,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-189318,Seilbmessa Larutcurts Dedlew Tnevlos X Yollatsah,BH221-81,PKT,Duplicate,31331503,Hastalloy X solvent welded structural assemblies,31331500,Solvent welded structural assemblies,31000000,Manufacturing Components and Supplies,0.9,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-913373,"Hot forged machined tin forging, Industrial Grade",BH561-66,PKT,Inactive,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-420214,WATER METER PROTECTION TUB,BH724-22,MT,Obsolete,40141762,Water meter protection tub,40141700,Hardware and fittings,40000000,Distribution and Conditioning Systems and Equipment and Components,0.61,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-264686,Tengam Etirref Muirab Ciportosi Detaoc Dna Denihcam Dna Deretnis Desserp,BH277-80,EA,Inactive,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-572387,GD-INCONEL ,BH398-14,LTR,Obsolete,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-576086,cold forged machined and heat treated non ferrous alloy forging,BH803-39,PKT,Obsolete,31132403,Cold forged machined and heat treated non ferrous alloy forging,31132400,Non ferrous alloy forgings,31000000,Manufacturing Components and Supplies,0.9,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-545790,porous blocks,BH657-38,LTR,Active,31371301,Porous blocks,31371300,Shaped refractories,31000000,Manufacturing Components and Supplies,0.54,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-931131,Item-Motor-Drive-Software,BH709-82,SQM,Active,43233601,Motor Drive Software,43233600,Electrical Equipment software,43000000,Information Technology Broadcasting and Telecommunications,0.73,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-833723,"Dry wall single chamber three gas incubators, Industrial Grade",BH378-74,SQM,Active,41104419,Dry wall single chamber three gas incubators,41104400,Laboratory incubating equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.8,
+BHEL,Bharat Heavy Electricals Ltd,BHE-870214,Magnetometer geophysical instruments Assy,BH718-42,MT,Obsolete,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-976566,GENERAL PURPOSE CLEANERS,BH883-96,PKT,Active,47131805,General purpose cleaners,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.88,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-593355,GD-LABORATO,BH384-33,MTR,Obsolete,41121812,Laboratory dishes,41121800,General laboratory glassware and plasticware and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.91,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-592841,Freeze plugs Assy,BH518-52,NOS,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-445824,"Housings for filters, Industrial Grade",BH810-73,MTR,Duplicate,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-138479,GD-THERMOSE,BH190-50,NOS,Inactive,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-639593,GENERAL PURPOSE CLEANERS,BH773-79,EA,Active,47131805,General purpose cleaners,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.76,
+BHEL,Bharat Heavy Electricals Ltd,BHE-755788,GD-HYDRAULI,BH878-16,BOX,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-402020,GD-LIQUID N,BH815-72,PKT,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-844261,INCONEL_BOLTED_PLATE_ASSEMBLIES,BH418-80,MTR,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-335615,sinteredisotropic strontium ferrite magnet assembly,BH572-25,KG,Inactive,31381247,Sinteredisotropic strontium ferrite magnet assembly,31381200,Sintered magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.97,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-633590,Item-Inconel-bolted-tube-assemblies,BH525-71,MT,Inactive,31351504,Inconel bolted tube assemblies,31351500,Bolted tube assemblies,31000000,Manufacturing Components and Supplies,0.78,
+BHEL,Bharat Heavy Electricals Ltd,BHE-299869,EMBEDDING_MOLDS,BH984-18,MTR,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-925981,Item-Galvanized-steel-pipe-elbow,BH940-10,LTR,Duplicate,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-708093,GD-ANTENNA ,BH986-29,SQM,Active,43221727,Antenna accessory,43221700,Fixed network equipment and components,43000000,Information Technology Broadcasting and Telecommunications,0.67,
+BHEL,Bharat Heavy Electricals Ltd,BHE-577463,Network equipment upgrade kit Assy,BH990-34,MT,Duplicate,43222635,Network equipment upgrade kit,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.69,
+BHEL,Bharat Heavy Electricals Ltd,BHE-145767,Magnesium impact extrusions Assy,BH862-70,MTR,Inactive,31111608,Magnesium impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.99,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-619389,OSMOMETER ACCESSORIES,BH229-74,SET,Active,41113039,Osmometer accessories,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.94,
+BHEL,Bharat Heavy Electricals Ltd,BHE-204555,GD-HISTOLOG,BH115-28,KG,Active,41123307,Histology tissue cassette storage tray or box,41123300,General laboratory storage containers and cabinets,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.73,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-455007,"Sludge or sewage composting equipment, Industrial Grade",BH765-20,BOX,Inactive,47101524,Sludge or sewage composting equipment,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.98,
+BHEL,Bharat Heavy Electricals Ltd,BHE-667296,BERYLLIUM ROLLED RING MACHINED FORGINGS,BH732-18,LTR,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-883041,s trap,BH544-22,NOS,Inactive,40142515,S trap,40142500,Traps and strainers,40000000,Distribution and Conditioning Systems and Equipment and Components,0.58,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-130353,PRE IGNITION KNOCK SENSOR,BH432-17,SET,Inactive,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-252640,Seirossecca Retemomso,BH643-62,KG,Active,41113039,Osmometer accessories,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.59,
+BHEL,Bharat Heavy Electricals Ltd,BHE-749813,Ebut Tropitlum Reppoc Dedurtxe,BH609-84,SQM,Obsolete,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-366314,GD-TIRE RUN,BH361-95,SQM,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-810526,PERSONAL_ORGANIZERS,BH175-66,PKT,Active,44111516,Personal organizers,44111500,Organizers and accessories,44000000,Office Equipment and Accessories and Supplies,0.82,
+BHEL,Bharat Heavy Electricals Ltd,BHE-823846,Item-Tin-profile-extrusions,BH567-48,MTR,Inactive,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-211834,Sreniatnoc Tropsnart Ro Noitcelloc Baws,BH490-83,LTR,Obsolete,41104116,Swab collection or transport containers,41104100,Specimen collection and transport containers and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.65,
+BHEL,Bharat Heavy Electricals Ltd,BHE-387813,GENERAL PURPOSE CLEANERS,BH679-97,EA,Duplicate,47131805,General purpose cleaners,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.87,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-913423,Sremogilo Ro Seditoelcun Detagujnoc,BH721-55,MT,Duplicate,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-362801,NETWORK_MONITORING_SOFTWARE,BH743-22,EA,Active,43232801,Network monitoring software,43232800,Network management software,43000000,Information Technology Broadcasting and Telecommunications,0.89,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-707727,Inconel ultra violet welded pipe assemblies Assy,BH849-26,LTR,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-883790,"Stainless steel shell mold machined castings, Industrial Grade",BH279-35,BOX,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-656639,Item-Ice-flake-maker,BH950-31,SQM,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-882824,Electrophoresis system Assy,BH923-24,NOS,Active,41105340,Electrophoresis system,41105300,Laboratory electrophoresis and blotting system and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.88,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-809176,"Tin plaster mold machined castings, Industrial Grade",BH966-81,MTR,Active,31121414,Tin plaster mold machined castings,31121400,Machined plaster mold castings,31000000,Manufacturing Components and Supplies,0.63,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-576877,Rubber machined hot extrusions Assy,BH788-96,MTR,Obsolete,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-489518,stamp canceling machines,BH791-39,PKT,Duplicate,44102104,Stamp canceling machines,44102100,Mail machines,44000000,Office Equipment and Accessories and Supplies,0.66,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-779112,dehydrators,BH750-69,LTR,Obsolete,41104208,Dehydrators,41104200,Laboratory water purification equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.7,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-147549,NETWORK MONITORING SOFTWARE,BH411-73,MT,Duplicate,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-242254,"Copper closed die machined forgings, Industrial Grade",BH564-57,BOX,Inactive,31301210,Copper closed die machined forgings,31301200,Machined closed die forgings,31000000,Manufacturing Components and Supplies,0.79,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-535037,tire depth gauge,BH953-72,LTR,Active,41111649,Tire depth gauge,41111600,Length and thickness and distance measuring instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.85,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-564920,GD-MANAGED ,BH341-56,SET,Duplicate,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-776149,Galvanized steel pipe elbow Assy,BH162-60,NOS,Inactive,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-196126,Sretlif Rof Sgnisuoh,BH757-91,EA,Active,40161525,Housings for filters,40161500,Filters,40000000,Distribution and Conditioning Systems and Equipment and Components,0.89,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-232040,Metsys Siserohportcele,BH170-80,MT,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-444519,FILTER_ELEMENT,BH907-86,KG,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-666456,Item-Malleable-iron-pipe-tee,BH917-32,EA,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-115582,Freeze plugs Assy,BH908-40,EA,Active,26101763,Freeze plugs,26101700,Engine components and accessories,26000000,Power Generation and Distribution Machinery and Accessories,0.63,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-877747,"Pressure regulator, Industrial Grade",BH638-24,SQM,Inactive,41112404,Pressure regulator,41112400,Pressure measuring and control instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-573962,Reyal Epip,BH729-15,BOX,Active,24101618,Pipe layer,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.73,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-163780,GD-MALLEABL,BH967-61,NOS,Inactive,40174606,Malleable iron pipe tee,40174600,Pipe tees,40000000,Distribution and Conditioning Systems and Equipment and Components,0.86,
+BHEL,Bharat Heavy Electricals Ltd,BHE-177060,biological filter media,BH429-87,KG,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-754644,Malleable iron pipe tee Assy,BH490-86,SQM,Duplicate,40174606,Malleable iron pipe tee,40174600,Pipe tees,40000000,Distribution and Conditioning Systems and Equipment and Components,0.8,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-931621,bronze centrifugal machined castings,BH973-93,BOX,Obsolete,31121712,Bronze centrifugal machined castings,31121700,Machined centrifugal castings,31000000,Manufacturing Components and Supplies,0.93,
+BHEL,Bharat Heavy Electricals Ltd,BHE-573489,Yrossecca Annetna,BH523-53,MTR,Inactive,43221727,Antenna accessory,43221700,Fixed network equipment and components,43000000,Information Technology Broadcasting and Telecommunications,0.86,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-547494,Malleable iron pipe tee Assy,BH781-42,KG,Obsolete,40174606,Malleable iron pipe tee,40174600,Pipe tees,40000000,Distribution and Conditioning Systems and Equipment and Components,0.96,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-195656,reflective tape,BH195-65,SET,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-683397,WARM FORGED HEAT TREATED AND COLD SIZED LEAD FORGING,BH700-81,NOS,Inactive,31133508,Warm forged heat treated and cold sized lead forging,31133500,Lead forgings,31000000,Manufacturing Components and Supplies,0.68,
+BHEL,Bharat Heavy Electricals Ltd,BHE-856086,QUICK ACTION CLAMP,BH394-86,NOS,Duplicate,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-632060,Erawtfos Tnempiuqe Npv Krowten Etavirp Lautriv Dna Ytiruces Krowten,BH258-94,NOS,Active,43233204,Network security and virtual private network VPN equipment software,43233200,Security and protection software,43000000,Information Technology Broadcasting and Telecommunications,0.92,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-220465,Item-Multi-core-600-volt-class-f-automotive-cable,BH687-38,BOX,Duplicate,26121831,Multi core 600 volt class f automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.81,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-738577,Item-Network-monitoring-software,BH129-33,LTR,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-468074,ALUMINUM BONDED STRUCTURAL ASSEMBLIES,BH285-28,MTR,Active,31331101,Aluminum bonded structural assemblies,31331100,Bonded structural assemblies,31000000,Manufacturing Components and Supplies,0.57,Manual
+BHEL,Bharat Heavy Electricals Ltd,BHE-196214,Gnigrof Dael Dezis Dloc Dna Detaert Taeh Degrof Mraw,BH485-63,KG,Active,31133508,Warm forged heat treated and cold sized lead forging,31133500,Lead forgings,31000000,Manufacturing Components and Supplies,0.66,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-914571,battery driven whiteboard eraser,BH153-29,PKT,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-806707,tire depth gauge,BH378-66,SQM,Duplicate,41111649,Tire depth gauge,41111600,Length and thickness and distance measuring instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.72,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-326040,water meter protection tub,BH453-65,PKT,Inactive,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-652530,Item-Galvanized-steel-pipe-elbow,BH146-38,PKT,Active,40172815,Galvanized steel pipe elbow,40172800,Pipe elbows,40000000,Distribution and Conditioning Systems and Equipment and Components,0.5,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-321494,RUBBER_MACHINED_HOT_EXTRUSIONS,BH882-42,NOS,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-621546,"Functional tester, Industrial Grade",BH279-26,MT,Duplicate,41113650,Functional tester,41113600,Electrical measuring and testing equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.78,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-175576,"Cold forged machined magnesium forging, Industrial Grade",BH982-15,SQM,Active,31132801,Cold forged machined magnesium forging,31132800,Magnesium forgings,31000000,Manufacturing Components and Supplies,0.93,
+BHEL,Bharat Heavy Electricals Ltd,BHE-701253,"Fiber sensors, Industrial Grade",BH826-91,NOS,Inactive,41112103,Fiber sensors,41112100,Transducers,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-280222,GD-NON META,BH951-98,NOS,Inactive,31281809,Non metallic punched components,31281800,Punched components,31000000,Manufacturing Components and Supplies,0.92,AI
+BHEL,Bharat Heavy Electricals Ltd,BHE-556839,"Pressed sintered and machined and coated isotropic barium ferrite magnet, Industrial Grade",BH636-20,LTR,Obsolete,31381313,Pressed sintered and machined and coated isotropic barium ferrite magnet,31381300,Pressed magnet and magnet assemblies,31000000,Manufacturing Components and Supplies,0.67,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-916964,SINGLE_CORE_600_VOLT_CLASS_A_AUTOMOTIVE_CABLE,BH178-75,BOX,Duplicate,26121810,Single core 600 volt class a automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.6,Legacy
+BHEL,Bharat Heavy Electricals Ltd,BHE-468154,TAPE_ARRAYS,BH341-23,MT,Active,,,,,,,,
+BHEL,Bharat Heavy Electricals Ltd,BHE-731661,STAINLESS_STEEL_IMPACT_EXTRUSIONS,BH878-93,SQM,Inactive,,,,,,,,
+SAIL,Steel Authority of India,SAL-691119,GD-RUBBER M,SA797-82,PKT,Active,31291412,Rubber machined hot extrusions,31291400,Machined hot extrusions,31000000,Manufacturing Components and Supplies,0.93,Legacy
+SAIL,Steel Authority of India,SAL-258290,GD-ENTERPRI,SA169-70,LTR,Active,43232403,Enterprise application integration software,43232400,Development software,43000000,Information Technology Broadcasting and Telecommunications,0.8,Legacy
+SAIL,Steel Authority of India,SAL-631981,tarpaulins,SA417-69,EA,Active,24141506,Tarpaulins,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.92,Manual
+SAIL,Steel Authority of India,SAL-775981,titanium ceramic mold machined castings,SA729-86,SQM,Duplicate,31121808,Titanium ceramic mold machined castings,31121800,Machined ceramic mold castings,31000000,Manufacturing Components and Supplies,0.78,Manual
+SAIL,Steel Authority of India,SAL-571579,Rcp Noitcaer Niahc Esaremylop Yb Noitatitnauq Anrm Dica Cielcunobir Regnessem Rof Stik,SA429-87,KG,Active,41106304,Kits for messenger ribonucleic acid mRNA quantitation by polymerase chain reaction PCR,41106300,Polymerase chain reaction PCR and reverse transcriptase polymerase chain reaction RT PCR products,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.73,Legacy
+SAIL,Steel Authority of India,SAL-849014,stainless steel pipe nipple,SA616-92,MT,Obsolete,,,,,,,,
+SAIL,Steel Authority of India,SAL-559022,GD-ANTENNA ,SA636-76,SET,Active,43221727,Antenna accessory,43221700,Fixed network equipment and components,43000000,Information Technology Broadcasting and Telecommunications,0.96,
+SAIL,Steel Authority of India,SAL-528625,Tin plaster mold machined castings Assy,SA795-86,SET,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-445705,vegetation nutrition inspection device,SA671-96,LTR,Obsolete,41106707,Vegetation nutrition inspection device,41106700,Laboratory botanical equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.93,AI
+SAIL,Steel Authority of India,SAL-449555,cold forged machined and heat treated beryllium forging,SA696-94,SET,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-787923,"Memory drivers, Industrial Grade",SA232-86,NOS,Active,43233418,Memory drivers,43233400,Utility and device driver software,43000000,Information Technology Broadcasting and Telecommunications,0.78,Legacy
+SAIL,Steel Authority of India,SAL-952686,VEGETATION_NUTRITION_INSPECTION_DEVICE,SA786-99,BOX,Active,41106707,Vegetation nutrition inspection device,41106700,Laboratory botanical equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.82,
+SAIL,Steel Authority of India,SAL-633188,PVC plastic pipe nipple Assy,SA118-56,MT,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-903373,GD-SWAB COL,SA296-38,KG,Active,41104116,Swab collection or transport containers,41104100,Specimen collection and transport containers and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.65,Manual
+SAIL,Steel Authority of India,SAL-632351,CARDED PACKAGING,SA777-53,PKT,Active,24121504,Carded packaging,24121500,Packaging boxes and bags and pouches,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.8,AI
+SAIL,Steel Authority of India,SAL-270128,FERROUS_ALLOY_V_PROCESS_CASTING,SA951-98,KG,Obsolete,31102402,Ferrous alloy v process casting,31102400,V process castings,31000000,Manufacturing Components and Supplies,0.72,
+SAIL,Steel Authority of India,SAL-481995,Sretaeper Krowten,SA554-88,SQM,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-659951,Recuder Deeps Lacileh,SA416-70,MT,Active,26111538,Helical speed reducer,26111500,Kinetic power transmission,26000000,Power Generation and Distribution Machinery and Accessories,0.84,
+SAIL,Steel Authority of India,SAL-584106,Item-Pressed-and-sintered-off-tool-isotropic-strontium-ferrite-magnet,SA896-58,MTR,Active,31381336,Pressed and sintered off tool isotropic strontium ferrite magnet,31381300,Pressed magnet and magnet assemblies,31000000,Manufacturing Components and Supplies,0.91,AI
+SAIL,Steel Authority of India,SAL-362147,LABORATORY CLAMPS,SA756-71,BOX,Active,41122413,Laboratory clamps,41122400,Laboratory implements,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.86,Manual
+SAIL,Steel Authority of India,SAL-398910,telescoping poles,SA881-30,BOX,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-971415,"Cold forged machined and heat treated beryllium forging, Industrial Grade",SA193-38,SET,Active,31133003,Cold forged machined and heat treated beryllium forging,31133000,Beryllium forgings,31000000,Manufacturing Components and Supplies,0.71,
+SAIL,Steel Authority of India,SAL-626392,Tarpaulins Assy,SA341-59,SET,Active,24141506,Tarpaulins,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.51,Manual
+SAIL,Steel Authority of India,SAL-979940,Conveyor liner Assy,SA910-28,LTR,Inactive,,,,,,,,
+SAIL,Steel Authority of India,SAL-829884,VENTILATION_SPAD,SA877-70,EA,Active,40101509,Ventilation spad,40101500,Ventilation,40000000,Distribution and Conditioning Systems and Equipment and Components,0.51,AI
+SAIL,Steel Authority of India,SAL-975522,REFLECTIVE_TAPE,SA661-87,NOS,Active,31201516,Reflective tape,31201500,Tape,31000000,Manufacturing Components and Supplies,0.62,Manual
+SAIL,Steel Authority of India,SAL-150068,Srezylana Knab Doolb,SA529-91,SQM,Active,41115803,Blood bank analyzers,41115800,Clinical and diagnostic analyzers and accessories and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.56,
+SAIL,Steel Authority of India,SAL-725726,PUMP SHAFT,SA747-75,KG,Active,40151732,Pump shaft,40151700,Pump parts and accessories,40000000,Distribution and Conditioning Systems and Equipment and Components,0.71,Legacy
+SAIL,Steel Authority of India,SAL-352249,"Tissue culture coated plates or dishes or inserts, Industrial Grade",SA291-95,BOX,Active,41122107,Tissue culture coated plates or dishes or inserts,41122100,Tissue culture and high throughput screening supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.53,Manual
+SAIL,Steel Authority of India,SAL-509420,GD-GALVANIZ,SA144-91,SET,Active,40172815,Galvanized steel pipe elbow,40172800,Pipe elbows,40000000,Distribution and Conditioning Systems and Equipment and Components,0.87,Legacy
+SAIL,Steel Authority of India,SAL-926823,clothes dryers,SA453-40,NOS,Duplicate,47111503,Clothes dryers,47111500,Washing and drying equipment,47000000,Cleaning Equipment and Supplies,0.87,Legacy
+SAIL,Steel Authority of India,SAL-239890,ELECTROPHORESIS SYSTEM,SA460-79,KG,Obsolete,,,,,,,,
+SAIL,Steel Authority of India,SAL-587192,GD-LABORATO,SA746-33,NOS,Obsolete,41122413,Laboratory clamps,41122400,Laboratory implements,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,
+SAIL,Steel Authority of India,SAL-138780,Item-Memory-drivers,SA306-15,EA,Active,43233418,Memory drivers,43233400,Utility and device driver software,43000000,Information Technology Broadcasting and Telecommunications,0.97,
+SAIL,Steel Authority of India,SAL-955015,GD-CAPSTAN,SA359-14,MT,Active,24101651,Capstan,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.68,Manual
+SAIL,Steel Authority of India,SAL-787584,CPVC plastic pipe cross Assy,SA379-25,MTR,Inactive,40172709,CPVC plastic pipe cross,40172700,Pipe crosses,40000000,Distribution and Conditioning Systems and Equipment and Components,0.87,
+SAIL,Steel Authority of India,SAL-455505,MANAGED_LEASE_LINE_NETWORK_MLLN_EQUIPMENT,SA608-98,BOX,Active,43222638,Managed lease line network MLLN equipment,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.9,
+SAIL,Steel Authority of India,SAL-182760,"Network security and virtual private network VPN equipment software, Industrial Grade",SA716-33,SET,Active,43233204,Network security and virtual private network VPN equipment software,43233200,Security and protection software,43000000,Information Technology Broadcasting and Telecommunications,0.54,Legacy
+SAIL,Steel Authority of India,SAL-421384,GD-GEOTHERM,SA717-64,SQM,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-568849,ALCOHOLOMETER,SA844-55,MTR,Active,41113038,Alcoholometer,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.82,Manual
+SAIL,Steel Authority of India,SAL-178686,"Ice flake maker, Industrial Grade",SA472-75,KG,Active,24131903,Ice flake maker,24131900,Ice makers,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.57,
+SAIL,Steel Authority of India,SAL-136489,ION_CHROMATOGRAPHY_IC_GUARD_COLUMN,SA168-40,SET,Active,41115729,Ion chromatography IC guard column,41115700,Chromatographic measuring instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.69,Manual
+SAIL,Steel Authority of India,SAL-734487,MALLEABLE_IRON_PIPE_TEE,SA795-67,SET,Inactive,40174606,Malleable iron pipe tee,40174600,Pipe tees,40000000,Distribution and Conditioning Systems and Equipment and Components,0.88,AI
+SAIL,Steel Authority of India,SAL-655178,Microscope objectives Assy,SA507-50,MT,Active,41111705,Microscope objectives,41111700,Viewing and observing instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,AI
+SAIL,Steel Authority of India,SAL-623285,"Blood bank analyzers, Industrial Grade",SA675-25,LTR,Obsolete,,,,,,,,
+SAIL,Steel Authority of India,SAL-567951,Selbac Munimula Lacirtcele Non,SA726-46,SQM,Active,31151707,Non electrical aluminum cables,31151700,Mechanical cable,31000000,Manufacturing Components and Supplies,0.56,Manual
+SAIL,Steel Authority of India,SAL-574001,CONVEYOR_LINER,SA830-66,SET,Obsolete,24101726,Conveyor liner,24101700,Conveyors and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.67,Manual
+SAIL,Steel Authority of India,SAL-676713,Item-Laboratory-clamps,SA407-30,KG,Active,41122413,Laboratory clamps,41122400,Laboratory implements,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.75,Manual
+SAIL,Steel Authority of India,SAL-310743,WELDED_STEEL_TUBE_ASSEMBLY,SA342-73,BOX,Duplicate,,,,,,,,
+SAIL,Steel Authority of India,SAL-486831,GD-RADIOACT,SA922-80,NOS,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-424314,"Laundry work table, Industrial Grade",SA834-71,MTR,Duplicate,47111509,Laundry work table,47111500,Washing and drying equipment,47000000,Cleaning Equipment and Supplies,0.54,Legacy
+SAIL,Steel Authority of India,SAL-773540,capstan,SA560-69,SET,Active,24101651,Capstan,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.94,AI
+SAIL,Steel Authority of India,SAL-905077,WALL_BUSHINGS,SA543-74,EA,Active,31162311,Wall bushings,31162300,Mounting hardware,31000000,Manufacturing Components and Supplies,0.76,Legacy
+SAIL,Steel Authority of India,SAL-272655,ALCOHOLOMETER,SA430-38,BOX,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-987025,darkfield microscopes,SA356-35,BOX,Active,41111719,Darkfield microscopes,41111700,Viewing and observing instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.56,Legacy
+SAIL,Steel Authority of India,SAL-744274,kaptan wire,SA614-92,PKT,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-279516,Tamper proof or security seals Assy,SA962-82,EA,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-147670,Item-Rough-terrain-cranes,SA766-36,MTR,Duplicate,24101622,Rough terrain cranes,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.82,
+SAIL,Steel Authority of India,SAL-757629,Item-Torsion-springs,SA757-48,MTR,Active,31161908,Torsion springs,31161900,Springs,31000000,Manufacturing Components and Supplies,0.73,Manual
+SAIL,Steel Authority of India,SAL-265759,GD-SWAB COL,SA525-71,SET,Duplicate,41104116,Swab collection or transport containers,41104100,Specimen collection and transport containers and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.57,Legacy
+SAIL,Steel Authority of India,SAL-869864,Pressure gauge Assy,SA508-26,BOX,Duplicate,41112412,Pressure gauge,41112400,Pressure measuring and control instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.55,AI
+SAIL,Steel Authority of India,SAL-589131,steel exhaust stack,SA373-67,NOS,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-404309,"Microscope slide racks, Industrial Grade",SA984-88,KG,Active,41122802,Microscope slide racks,41122800,Laboratory stands and racks and trays,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.97,Legacy
+SAIL,Steel Authority of India,SAL-299055,COG_WHEELS,SA610-75,LTR,Inactive,31171801,Cog wheels,31171800,Industrial wheels,31000000,Manufacturing Components and Supplies,0.51,
+SAIL,Steel Authority of India,SAL-629996,GD-BLANK AU,SA346-37,EA,Active,43202009,Blank audio tape,43202000,Removable storage media,43000000,Information Technology Broadcasting and Telecommunications,0.64,
+SAIL,Steel Authority of India,SAL-399628,PAPER CLAWS,SA967-23,LTR,Obsolete,44122026,Paper claws,44122000,Folders and binders and indexes,44000000,Office Equipment and Accessories and Supplies,0.68,
+SAIL,Steel Authority of India,SAL-483713,CHAIN DRIVES,SA510-16,MT,Active,26111505,Chain drives,26111500,Kinetic power transmission,26000000,Power Generation and Distribution Machinery and Accessories,0.78,Manual
+SAIL,Steel Authority of India,SAL-505116,GD-CARBON S,SA882-80,PKT,Obsolete,,,,,,,,
+SAIL,Steel Authority of India,SAL-740725,automotive hvac actuator,SA231-22,SET,Duplicate,31251512,Automotive HVAC actuator,31251500,Actuators,31000000,Manufacturing Components and Supplies,0.97,AI
+SAIL,Steel Authority of India,SAL-308727,"Inconel ultra violet welded pipe assemblies, Industrial Grade",SA612-15,KG,Obsolete,,,,,,,,
+SAIL,Steel Authority of India,SAL-449218,GD-THERMOFO,SA631-68,BOX,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-443897,Platform interconnectivity software Assy,SA266-60,LTR,Duplicate,43232915,Platform interconnectivity software,43232900,Networking software,43000000,Information Technology Broadcasting and Telecommunications,0.67,
+SAIL,Steel Authority of India,SAL-843167,Item-Tamper-proof-or-security-seals,SA586-12,NOS,Inactive,24141504,Tamper proof or security seals,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.79,Manual
+SAIL,Steel Authority of India,SAL-725905,GD-TIN PROF,SA371-93,PKT,Duplicate,31111515,Tin profile extrusions,31111500,Profile extrusions,31000000,Manufacturing Components and Supplies,0.61,Manual
+SAIL,Steel Authority of India,SAL-711868,GD-TITANIUM,SA274-77,PKT,Inactive,31121808,Titanium ceramic mold machined castings,31121800,Machined ceramic mold castings,31000000,Manufacturing Components and Supplies,0.57,AI
+SAIL,Steel Authority of India,SAL-133104,osmometer accessories,SA295-12,MTR,Active,41113039,Osmometer accessories,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.71,AI
+SAIL,Steel Authority of India,SAL-530311,GD-MEMORY D,SA993-17,BOX,Active,43233418,Memory drivers,43233400,Utility and device driver software,43000000,Information Technology Broadcasting and Telecommunications,0.78,
+SAIL,Steel Authority of India,SAL-651002,"S hooks, Industrial Grade",SA421-32,BOX,Active,31162603,S hooks,31162600,Hooks,31000000,Manufacturing Components and Supplies,0.77,Legacy
+SAIL,Steel Authority of India,SAL-739711,GD-SEROLOGI,SA296-41,LTR,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-412071,Item-Flowmeters,SA821-36,SQM,Active,41112501,Flowmeters,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.74,Legacy
+SAIL,Steel Authority of India,SAL-401769,stainless steel bonded plate assemblies,SA687-96,MTR,Active,31361109,Stainless steel bonded plate assemblies,31361100,Bonded plate assemblies,31000000,Manufacturing Components and Supplies,0.98,AI
+SAIL,Steel Authority of India,SAL-404561,SAMPLE CHANGERS,SA394-20,SQM,Obsolete,,,,,,,,
+SAIL,Steel Authority of India,SAL-368900,GD-TIRE DEP,SA319-35,LTR,Duplicate,41111649,Tire depth gauge,41111600,Length and thickness and distance measuring instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.85,AI
+SAIL,Steel Authority of India,SAL-214532,Pmalc Noitca Kciuq,SA348-16,BOX,Active,31162916,Quick action clamp,31162900,Clamps,31000000,Manufacturing Components and Supplies,0.82,Manual
+SAIL,Steel Authority of India,SAL-205065,"Blank audio tape, Industrial Grade",SA438-70,KG,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-677086,CPVC_PLASTIC_PIPE_SOCKETWELD_FLANGE,SA516-93,SQM,Inactive,40174105,CPVC plastic pipe socketweld flange,40174100,Pipe socketweld flanges,40000000,Distribution and Conditioning Systems and Equipment and Components,0.83,Legacy
+SAIL,Steel Authority of India,SAL-436768,Item-Castisotropic-strontium-ferrite-magnet-assembly,SA761-17,NOS,Obsolete,31381147,Castisotropic strontium ferrite magnet assembly,31381100,Castmagnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.79,Manual
+SAIL,Steel Authority of India,SAL-283568,"Laboratory clamps, Industrial Grade",SA957-32,EA,Inactive,41122413,Laboratory clamps,41122400,Laboratory implements,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,AI
+SAIL,Steel Authority of India,SAL-885386,Item-Electrophoresis-system,SA997-14,PKT,Duplicate,,,,,,,,
+SAIL,Steel Authority of India,SAL-212512,Tissue culture coated plates or dishes or inserts Assy,SA391-68,BOX,Duplicate,41122107,Tissue culture coated plates or dishes or inserts,41122100,Tissue culture and high throughput screening supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.75,AI
+SAIL,Steel Authority of India,SAL-992400,GD-TAPE ARR,SA379-34,SET,Active,43201806,Tape arrays,43201800,Media storage devices,43000000,Information Technology Broadcasting and Telecommunications,0.87,Legacy
+SAIL,Steel Authority of India,SAL-853504,HISTOLOGY_ANALYZER_ACCESSORIES_OR_SUPPLIES,SA114-53,PKT,Obsolete,41115818,Histology analyzer accessories or supplies,41115800,Clinical and diagnostic analyzers and accessories and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.88,AI
+SAIL,Steel Authority of India,SAL-740632,"Tape testers, Industrial Grade",SA946-64,NOS,Inactive,41113712,Tape testers,41113700,Electronic and communication measuring and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.83,AI
+SAIL,Steel Authority of India,SAL-247442,GD-LABORATO,SA431-41,MTR,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-568436,Item-Kits-for-polymerase-chain-reaction-PCR-purification,SA437-48,PKT,Active,41106303,Kits for polymerase chain reaction PCR purification,41106300,Polymerase chain reaction PCR and reverse transcriptase polymerase chain reaction RT PCR products,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.63,Legacy
+SAIL,Steel Authority of India,SAL-826420,Rekam Ekalf Eci,SA163-95,LTR,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-525110,Item-Digital-cross-connects-DCX-equipment,SA806-25,LTR,Active,43222623,Digital cross connects DCX equipment,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.81,AI
+SAIL,Steel Authority of India,SAL-240057,GD-PLASTIC ,SA256-68,PKT,Active,31381435,Plastic bonded off tool isotropic barium ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.71,
+SAIL,Steel Authority of India,SAL-894139,Retemolohocla,SA880-41,PKT,Active,41113038,Alcoholometer,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.76,Legacy
+SAIL,Steel Authority of India,SAL-181896,computer switch boxes,SA163-80,MT,Duplicate,43211601,Computer switch boxes,43211600,Computer accessories,43000000,Information Technology Broadcasting and Telecommunications,0.77,AI
+SAIL,Steel Authority of India,SAL-444056,GD-SWAB COL,SA219-97,PKT,Inactive,,,,,,,,
+SAIL,Steel Authority of India,SAL-195359,GD-THERMOPL,SA928-17,BOX,Inactive,31142201,Thermoplastic compression multiple shot inserted molding assembly,31142200,Thermoplastic multiple shot molding assemblies,31000000,Manufacturing Components and Supplies,0.73,Manual
+SAIL,Steel Authority of India,SAL-685941,GD-HEEL WAR,SA788-49,MTR,Active,41104103,Heel warmers,41104100,Specimen collection and transport containers and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.91,AI
+SAIL,Steel Authority of India,SAL-706403,ultracentrifuges,SA146-64,NOS,Duplicate,,,,,,,,
+SAIL,Steel Authority of India,SAL-163182,network security and virtual private network vpn equipment software,SA583-14,KG,Active,,,,,,,,
+SAIL,Steel Authority of India,SAL-903028,"Ball valves, Industrial Grade",SA483-58,MTR,Inactive,40141607,Ball valves,40141600,Valves,40000000,Distribution and Conditioning Systems and Equipment and Components,0.54,AI
+SAIL,Steel Authority of India,SAL-785280,Laboratory spoon Assy,SA221-32,MTR,Duplicate,41122414,Laboratory spoon,41122400,Laboratory implements,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.56,AI
+SAIL,Steel Authority of India,SAL-975373,TAPE ARRAYS,SA874-12,SQM,Obsolete,43201806,Tape arrays,43201800,Media storage devices,43000000,Information Technology Broadcasting and Telecommunications,0.86,
+GAIL,Gas Authority of India,GAL-497700,Evlav Kcoc,GA353-68,LTR,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-860242,cassette or tape shredders,GA132-94,EA,Active,44103601,Cassette or tape shredders,44103600,Cassette disposal equipment and accessories,44000000,Office Equipment and Accessories and Supplies,0.6,Manual
+GAIL,Gas Authority of India,GAL-722795,HELICAL SPEED REDUCER,GA557-86,EA,Active,26111538,Helical speed reducer,26111500,Kinetic power transmission,26000000,Power Generation and Distribution Machinery and Accessories,0.87,
+GAIL,Gas Authority of India,GAL-560285,Stesdnah Elimiscaf,GA652-37,EA,Active,44101704,Facsimile handsets,44101700,Printer and photocopier and facsimile accessories,44000000,Office Equipment and Accessories and Supplies,0.75,Legacy
+GAIL,Gas Authority of India,GAL-345536,Reverse osmosis equipment parts and accessories Assy,GA691-86,SET,Active,41104214,Reverse osmosis equipment parts and accessories,41104200,Laboratory water purification equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.65,AI
+GAIL,Gas Authority of India,GAL-792282,Gnitaoc Lamrofnoc Yxope,GA523-48,BOX,Duplicate,,,,,,,,
+GAIL,Gas Authority of India,GAL-870925,MICROSCOPE_OBJECTIVES,GA741-96,SQM,Active,41111705,Microscope objectives,41111700,Viewing and observing instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.99,
+GAIL,Gas Authority of India,GAL-923975,Low alloy steel riveted tube assemblies Assy,GA813-63,LTR,Inactive,31351305,Low alloy steel riveted tube assemblies,31351300,Riveted tube assemblies,31000000,Manufacturing Components and Supplies,0.59,
+GAIL,Gas Authority of India,GAL-352673,Evird Dvd Csid Oediv Latigid,GA407-28,EA,Duplicate,43201818,Digital video disc DVD drive,43201800,Media storage devices,43000000,Information Technology Broadcasting and Telecommunications,0.71,
+GAIL,Gas Authority of India,GAL-684357,STEEL_EXHAUST_STACK,GA497-41,SET,Obsolete,,,,,,,,
+GAIL,Gas Authority of India,GAL-182911,GD-CARDED P,GA967-57,MT,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-381502,"Sludge or sewage composting equipment, Industrial Grade",GA789-87,NOS,Active,47101524,Sludge or sewage composting equipment,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.9,AI
+GAIL,Gas Authority of India,GAL-602681,Retset Lanoitcnuf,GA990-52,EA,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-299254,internet protocol ip multimedia subsystem hardware,GA864-71,PKT,Obsolete,43222639,Internet protocol IP multimedia subsystem hardware,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.6,AI
+GAIL,Gas Authority of India,GAL-678897,Embedding molds Assy,GA894-46,BOX,Obsolete,41102902,Embedding molds,41102900,Histology equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.68,Legacy
+GAIL,Gas Authority of India,GAL-477114,GD-INCONEL ,GA577-22,SQM,Active,31351504,Inconel bolted tube assemblies,31351500,Bolted tube assemblies,31000000,Manufacturing Components and Supplies,0.96,Legacy
+GAIL,Gas Authority of India,GAL-428122,"Water sensor, Industrial Grade",GA146-82,KG,Active,41111965,Water sensor,41111900,Indicating and recording instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.63,
+GAIL,Gas Authority of India,GAL-409531,COPPER_PIPE_CROSS,GA300-52,PKT,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-623555,Automotive HVAC actuator Assy,GA363-72,SQM,Inactive,31251512,Automotive HVAC actuator,31251500,Actuators,31000000,Manufacturing Components and Supplies,0.58,Legacy
+GAIL,Gas Authority of India,GAL-277487,MOUNTING_STRIPS,GA837-79,BOX,Obsolete,31162304,Mounting strips,31162300,Mounting hardware,31000000,Manufacturing Components and Supplies,0.98,Manual
+GAIL,Gas Authority of India,GAL-979827,liquid nitrogen measuring stick,GA937-95,EA,Inactive,,,,,,,,
+GAIL,Gas Authority of India,GAL-244170,Tengam Etirref Ciportosina Detaoc Dednob Citsalp,GA169-29,BOX,Inactive,,,,,,,,
+GAIL,Gas Authority of India,GAL-491329,CASSETTE OR TAPE SHREDDERS,GA732-91,PKT,Inactive,44103601,Cassette or tape shredders,44103600,Cassette disposal equipment and accessories,44000000,Office Equipment and Accessories and Supplies,0.83,Manual
+GAIL,Gas Authority of India,GAL-106933,"Plastic bonded off tool anisotropic ferrous aluminum nickel cobalt magnet, Industrial Grade",GA112-12,LTR,Duplicate,31381444,Plastic bonded off tool anisotropic ferrous aluminum nickel cobalt magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.99,Manual
+GAIL,Gas Authority of India,GAL-626611,"Carbon steel bonded pipe assemblies, Industrial Grade",GA925-32,NOS,Duplicate,,,,,,,,
+GAIL,Gas Authority of India,GAL-256130,Ylbmessa Ebut Leets Dedlew,GA296-89,SET,Active,40181806,Welded steel tube assembly,40181800,Welded steel tubes,40000000,Distribution and Conditioning Systems and Equipment and Components,0.9,Manual
+GAIL,Gas Authority of India,GAL-491172,"Cytocentrifuge, Industrial Grade",GA570-82,MT,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-817269,magnetometer geophysical instruments,GA769-93,NOS,Inactive,41113806,Magnetometer geophysical instruments,41113800,Geophysical and geotechnical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.69,
+GAIL,Gas Authority of India,GAL-158840,CONJUGATED NUCLEOTIDES OR OLIGOMERS,GA819-31,MTR,Obsolete,,,,,,,,
+GAIL,Gas Authority of India,GAL-922478,Cast iron pipe slipon flange Assy,GA679-22,EA,Active,40174003,Cast iron pipe slipon flange,40174000,Pipe slipon flanges,40000000,Distribution and Conditioning Systems and Equipment and Components,0.61,
+GAIL,Gas Authority of India,GAL-384263,COMPUTER OR NOTEBOOK STANDS,GA176-97,BOX,Duplicate,43211613,Computer or notebook stands,43211600,Computer accessories,43000000,Information Technology Broadcasting and Telecommunications,0.83,AI
+GAIL,Gas Authority of India,GAL-991737,Ball valves Assy,GA116-36,MTR,Active,40141607,Ball valves,40141600,Valves,40000000,Distribution and Conditioning Systems and Equipment and Components,0.65,AI
+GAIL,Gas Authority of India,GAL-694223,"Filter element, Industrial Grade",GA793-79,KG,Obsolete,,,,,,,,
+GAIL,Gas Authority of India,GAL-859340,sludge or sewage composting equipment,GA612-54,MTR,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-979414,highlighters,GA448-87,PKT,Inactive,44121716,Highlighters,44121700,Writing instruments,44000000,Office Equipment and Accessories and Supplies,0.98,Legacy
+GAIL,Gas Authority of India,GAL-131064,Item-Network-security-and-virtual-private-network-VPN-equipment-software,GA902-67,SET,Duplicate,43233204,Network security and virtual private network VPN equipment software,43233200,Security and protection software,43000000,Information Technology Broadcasting and Telecommunications,0.97,
+GAIL,Gas Authority of India,GAL-294760,"Biological filter media, Industrial Grade",GA187-89,MT,Obsolete,,,,,,,,
+GAIL,Gas Authority of India,GAL-177077,automotive hvac actuator,GA374-29,KG,Obsolete,31251512,Automotive HVAC actuator,31251500,Actuators,31000000,Manufacturing Components and Supplies,0.69,Legacy
+GAIL,Gas Authority of India,GAL-211726,battery driven whiteboard eraser,GA105-49,LTR,Active,44111913,Battery driven whiteboard eraser,44111900,Boards,44000000,Office Equipment and Accessories and Supplies,0.57,AI
+GAIL,Gas Authority of India,GAL-551914,GD-VENTILAT,GA670-81,NOS,Active,40101509,Ventilation spad,40101500,Ventilation,40000000,Distribution and Conditioning Systems and Equipment and Components,0.54,Manual
+GAIL,Gas Authority of India,GAL-725920,Tire running tester Assy,GA984-59,MTR,Inactive,,,,,,,,
+GAIL,Gas Authority of India,GAL-917018,hot forged machined tin forging,GA842-81,MT,Duplicate,31133409,Hot forged machined tin forging,31133400,Tin forgings,31000000,Manufacturing Components and Supplies,0.76,
+GAIL,Gas Authority of India,GAL-277735,AIR_VELOCITY_AND_TEMPERATURE_MONITORS,GA375-48,KG,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-275329,"Laboratory reactor, Industrial Grade",GA382-63,NOS,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-363926,Stik Noitamrofsnart Airetcab,GA838-90,PKT,Active,41106203,Bacteria transformation kits,41106200,Microorganism propagation and transformation media and kits and equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.73,AI
+GAIL,Gas Authority of India,GAL-419457,TEST BAR,GA505-52,MTR,Active,41114523,Test bar,41114500,Mechanical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.72,
+GAIL,Gas Authority of India,GAL-955088,TARPAULINS,GA407-51,MT,Inactive,24141506,Tarpaulins,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.66,
+GAIL,Gas Authority of India,GAL-434640,Item-Aluminum-riveted-tube-assemblies,GA852-98,PKT,Active,31351301,Aluminum riveted tube assemblies,31351300,Riveted tube assemblies,31000000,Manufacturing Components and Supplies,0.66,Legacy
+GAIL,Gas Authority of India,GAL-956156,"Stainless steel pipe nipple, Industrial Grade",GA473-24,MT,Duplicate,40173303,Stainless steel pipe nipple,40173300,Pipe nipples,40000000,Distribution and Conditioning Systems and Equipment and Components,1.0,AI
+GAIL,Gas Authority of India,GAL-814827,STRAPPING TENSIONERS OR SEALERS,GA844-69,MT,Inactive,44102305,Strapping tensioners or sealers,44102300,Packing machines,44000000,Office Equipment and Accessories and Supplies,0.9,Manual
+GAIL,Gas Authority of India,GAL-958747,"Blank audio tape, Industrial Grade",GA789-73,LTR,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-364955,MEMORY_DRIVERS,GA832-64,NOS,Inactive,43233418,Memory drivers,43233400,Utility and device driver software,43000000,Information Technology Broadcasting and Telecommunications,1.0,
+GAIL,Gas Authority of India,GAL-710527,"Stirring hotplates, Industrial Grade",GA647-74,MTR,Duplicate,41102423,Stirring hotplates,41102400,Laboratory heating and drying equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.52,Legacy
+GAIL,Gas Authority of India,GAL-835716,geothermal power plants,GA211-41,SET,Active,26131502,Geothermal power plants,26131500,Power plants,26000000,Power Generation and Distribution Machinery and Accessories,0.82,Manual
+GAIL,Gas Authority of India,GAL-690579,"Inconel bolted structural assemblies, Industrial Grade",GA870-52,MTR,Active,31331204,Inconel bolted structural assemblies,31331200,Bolted structural assemblies,31000000,Manufacturing Components and Supplies,0.51,Legacy
+GAIL,Gas Authority of India,GAL-332785,Tengam Etirref Ciportosina Detaoc Dednob Citsalp,GA556-57,PKT,Obsolete,31381429,Plastic bonded coated anisotropic ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.75,Legacy
+GAIL,Gas Authority of India,GAL-125755,GD-BALL VAL,GA207-47,NOS,Active,40141607,Ball valves,40141600,Valves,40000000,Distribution and Conditioning Systems and Equipment and Components,0.92,AI
+GAIL,Gas Authority of India,GAL-465249,Item-Computer-cable-holder,GA451-68,BOX,Inactive,43202217,Computer cable holder,43202200,Sub assemblies for electronic devices,43000000,Information Technology Broadcasting and Telecommunications,0.67,Manual
+GAIL,Gas Authority of India,GAL-559450,GD-GRID COU,GA426-18,NOS,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-990429,Non metallic stretch formed components Assy,GA763-23,KG,Obsolete,31282313,Non metallic stretch formed components,31282300,Stretch formed components,31000000,Manufacturing Components and Supplies,0.62,AI
+GAIL,Gas Authority of India,GAL-678719,FACSIMILE_HANDSETS,GA438-81,SQM,Active,44101704,Facsimile handsets,44101700,Printer and photocopier and facsimile accessories,44000000,Office Equipment and Accessories and Supplies,0.9,AI
+GAIL,Gas Authority of India,GAL-295440,"Ferrous alloy v process casting, Industrial Grade",GA505-13,MT,Inactive,31102402,Ferrous alloy v process casting,31102400,V process castings,31000000,Manufacturing Components and Supplies,0.8,
+GAIL,Gas Authority of India,GAL-104666,Sevlav Llab,GA310-45,NOS,Duplicate,40141607,Ball valves,40141600,Valves,40000000,Distribution and Conditioning Systems and Equipment and Components,0.55,AI
+GAIL,Gas Authority of India,GAL-483561,Pump column assembly Assy,GA301-68,SQM,Duplicate,,,,,,,,
+GAIL,Gas Authority of India,GAL-770153,Collection tanks Assy,GA711-59,PKT,Active,47101523,Collection tanks,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.67,
+GAIL,Gas Authority of India,GAL-747351,OIL_FOAMING_CHARACTERISTICS_TESTER,GA933-96,LTR,Duplicate,41113047,Oil foaming characteristics tester,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.8,AI
+GAIL,Gas Authority of India,GAL-428399,equipment transportation case,GA344-49,SET,Obsolete,,,,,,,,
+GAIL,Gas Authority of India,GAL-248225,"Housings for filters, Industrial Grade",GA528-86,MTR,Inactive,,,,,,,,
+GAIL,Gas Authority of India,GAL-294776,GD-ALUMINUM,GA750-78,KG,Duplicate,31331101,Aluminum bonded structural assemblies,31331100,Bonded structural assemblies,31000000,Manufacturing Components and Supplies,0.58,Legacy
+GAIL,Gas Authority of India,GAL-247111,SPRAY_KIT,GA422-67,SET,Active,24112208,Spray kit,24112200,Cans and pails,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.74,AI
+GAIL,Gas Authority of India,GAL-954815,"Single core 600 volt class g automotive cable, Industrial Grade",GA675-74,MTR,Obsolete,26121816,Single core 600 volt class g automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.75,
+GAIL,Gas Authority of India,GAL-612438,BRUSHLESS_COOLANT_PUMP,GA184-82,MT,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-134283,Item-Hydraulic-bulge-tester,GA330-78,SQM,Duplicate,,,,,,,,
+GAIL,Gas Authority of India,GAL-878586,GD-MONOFLEX,GA662-75,NOS,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-912764,Electron microscopes Assy,GA655-15,SQM,Duplicate,41111711,Electron microscopes,41111700,Viewing and observing instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.61,
+GAIL,Gas Authority of India,GAL-207391,Sretemwolf,GA404-14,SET,Active,41112501,Flowmeters,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.72,Manual
+GAIL,Gas Authority of India,GAL-913308,Gnitset Yrotarobal Rof Segareveb Citsongaid,GA314-85,PKT,Obsolete,41116206,Diagnostic beverages for laboratory testing,41116200,Patient point of care testing supplies and equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.71,AI
+GAIL,Gas Authority of India,GAL-922974,Latrop Gnigassem Eciov,GA933-36,PKT,Active,43223201,Voice messaging portal,43223200,Mobile messaging platforms,43000000,Information Technology Broadcasting and Telecommunications,0.77,AI
+GAIL,Gas Authority of India,GAL-439375,Item-Functional-tester,GA396-83,BOX,Obsolete,,,,,,,,
+GAIL,Gas Authority of India,GAL-954779,rotary coupling,GA238-62,LTR,Obsolete,31163014,Rotary coupling,31163000,Couplings,31000000,Manufacturing Components and Supplies,0.56,AI
+GAIL,Gas Authority of India,GAL-361805,TELECOMMUNICATION_TERMINAL_UNITS,GA828-51,MTR,Inactive,43222815,Telecommunication terminal units,43222800,Telephony equipment,43000000,Information Technology Broadcasting and Telecommunications,0.57,Legacy
+GAIL,Gas Authority of India,GAL-758309,"Tarpaulins, Industrial Grade",GA484-67,NOS,Inactive,,,,,,,,
+GAIL,Gas Authority of India,GAL-640659,Item-Magnesium-impact-extrusions,GA811-57,SQM,Active,31111608,Magnesium impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.79,Manual
+GAIL,Gas Authority of India,GAL-866437,GD-CLEANING,GA750-95,NOS,Duplicate,44102911,Cleaning wipes for office machines,44102900,Office machine accessories,44000000,Office Equipment and Accessories and Supplies,0.7,
+GAIL,Gas Authority of India,GAL-964915,Seilbmessa Kcots Rab Dezarb Ro Dedlew Lenocni,GA606-44,LTR,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-673896,QUICK_ACTION_CLAMP,GA679-72,EA,Active,31162916,Quick action clamp,31162900,Clamps,31000000,Manufacturing Components and Supplies,0.55,
+GAIL,Gas Authority of India,GAL-117072,diagnostic beverages for laboratory testing,GA978-30,EA,Inactive,41116206,Diagnostic beverages for laboratory testing,41116200,Patient point of care testing supplies and equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.6,AI
+GAIL,Gas Authority of India,GAL-781571,Item-Test-bar,GA262-45,SET,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-186424,Speedometers Assy,GA780-93,MTR,Obsolete,,,,,,,,
+GAIL,Gas Authority of India,GAL-420349,Sleehw Goc,GA539-93,NOS,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-323788,GD-SLUDGE O,GA179-26,BOX,Obsolete,47101539,Sludge or sewage removal equipment,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.72,Manual
+GAIL,Gas Authority of India,GAL-829386,Water meter protection tub Assy,GA936-25,MTR,Obsolete,40141762,Water meter protection tub,40141700,Hardware and fittings,40000000,Distribution and Conditioning Systems and Equipment and Components,0.57,Manual
+GAIL,Gas Authority of India,GAL-340068,"Carded packaging, Industrial Grade",GA191-23,SET,Active,,,,,,,,
+GAIL,Gas Authority of India,GAL-243790,"Nickel alloy machined cold extrusions, Industrial Grade",GA892-27,KG,Active,31291319,Nickel alloy machined cold extrusions,31291300,Machined cold extrusions,31000000,Manufacturing Components and Supplies,0.77,Manual
+IOCL,Indian Oil Corporation,IOC-781595,KAPTAN_WIRE,IO550-54,KG,Inactive,26121533,Kaptan wire,26121500,Electrical wire,26000000,Power Generation and Distribution Machinery and Accessories,0.81,
+IOCL,Indian Oil Corporation,IOC-327797,blood bank analyzers,IO202-27,PKT,Obsolete,41115803,Blood bank analyzers,41115800,Clinical and diagnostic analyzers and accessories and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.69,
+IOCL,Indian Oil Corporation,IOC-429780,THERMOSET_INJECTION_MOLDING_INSERT,IO353-45,MT,Duplicate,31142504,Thermoset injection molding insert,31142500,Thermoset molding inserts,31000000,Manufacturing Components and Supplies,0.8,Legacy
+IOCL,Indian Oil Corporation,IOC-916808,HAZE METER,IO968-94,MT,Duplicate,41115330,Haze meter,41115300,Light and wave generating and measuring equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.8,AI
+IOCL,Indian Oil Corporation,IOC-884170,"Hastalloy X welded or brazed bar stock assemblies, Industrial Grade",IO402-92,MT,Inactive,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-504630,cell metabolism analyzer,IO346-73,NOS,Duplicate,41115845,Cell metabolism analyzer,41115800,Clinical and diagnostic analyzers and accessories and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.94,Manual
+IOCL,Indian Oil Corporation,IOC-478638,Digital video disc DVD drive Assy,IO235-59,PKT,Inactive,43201818,Digital video disc DVD drive,43201800,Media storage devices,43000000,Information Technology Broadcasting and Telecommunications,0.68,AI
+IOCL,Indian Oil Corporation,IOC-899776,GD-NICKEL A,IO888-19,NOS,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-374921,Esac Noitatropsnart Tnempiuqe,IO140-17,MTR,Duplicate,24112412,Equipment transportation case,24112400,Storage chests and cabinets and trunks,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.64,
+IOCL,Indian Oil Corporation,IOC-544150,"Filter element, Industrial Grade",IO184-91,PKT,Active,40161807,Filter element,40161800,Filter media,40000000,Distribution and Conditioning Systems and Equipment and Components,0.64,Legacy
+IOCL,Indian Oil Corporation,IOC-182860,Segufirtnecartlu,IO927-29,MTR,Duplicate,41103907,Ultracentrifuges,41103900,Laboratory centrifuges and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.82,Manual
+IOCL,Indian Oil Corporation,IOC-425236,"Hastalloy X welded or brazed bar stock assemblies, Industrial Grade",IO847-40,NOS,Inactive,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-221620,GD-MEMORY D,IO726-87,KG,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-113280,HOUSINGS_FOR_FILTERS,IO818-11,SET,Duplicate,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-642347,Item-Hastalloy-X-solvent-welded-structural-assemblies,IO270-57,LTR,Obsolete,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-223791,S HOOKS,IO443-64,NOS,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-846925,non metallic bonded plate assemblies,IO608-68,EA,Inactive,31361106,Non metallic bonded plate assemblies,31361100,Bonded plate assemblies,31000000,Manufacturing Components and Supplies,0.93,AI
+IOCL,Indian Oil Corporation,IOC-485548,TAPE_ARRAYS,IO361-23,NOS,Active,43201806,Tape arrays,43201800,Media storage devices,43000000,Information Technology Broadcasting and Telecommunications,0.87,Manual
+IOCL,Indian Oil Corporation,IOC-146177,FUNCTIONAL TESTER,IO350-15,MTR,Active,41113650,Functional tester,41113600,Electrical measuring and testing equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.59,Manual
+IOCL,Indian Oil Corporation,IOC-679720,"Laboratory freezer or refrigerator thermometers, Industrial Grade",IO329-51,SET,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-966120,galvanized steel pipe elbow,IO685-57,EA,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-334026,MANAGED LEASE LINE NETWORK MLLN EQUIPMENT,IO510-18,LTR,Active,43222638,Managed lease line network MLLN equipment,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.66,
+IOCL,Indian Oil Corporation,IOC-108356,Stainless steel welded or brazed tube assemblies Assy,IO305-47,LTR,Obsolete,31351209,Stainless steel welded or brazed tube assemblies,31351200,Welded or brazed tube assemblies,31000000,Manufacturing Components and Supplies,0.81,
+IOCL,Indian Oil Corporation,IOC-486162,GD-LAUNDRY ,IO891-35,BOX,Active,47111509,Laundry work table,47111500,Washing and drying equipment,47000000,Cleaning Equipment and Supplies,0.58,
+IOCL,Indian Oil Corporation,IOC-125071,Eguag Erusserp,IO654-54,EA,Active,41112412,Pressure gauge,41112400,Pressure measuring and control instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.5,
+IOCL,Indian Oil Corporation,IOC-990247,Item-Dry-wall-single-chamber-three-gas-incubators,IO206-36,MT,Inactive,41104419,Dry wall single chamber three gas incubators,41104400,Laboratory incubating equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.75,Manual
+IOCL,Indian Oil Corporation,IOC-249289,Item-Biological-filter-media,IO195-15,BOX,Inactive,40161808,Biological filter media,40161800,Filter media,40000000,Distribution and Conditioning Systems and Equipment and Components,0.85,Legacy
+IOCL,Indian Oil Corporation,IOC-580728,pressure regulator,IO694-22,MTR,Active,41112404,Pressure regulator,41112400,Pressure measuring and control instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.8,Manual
+IOCL,Indian Oil Corporation,IOC-556112,DOCK_PLATES,IO342-47,SET,Inactive,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-834764,Small paper bags of wet absorbing salts Assy,IO425-67,NOS,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-242723,locating pins,IO259-23,SQM,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-526259,personal organizers,IO648-55,MT,Inactive,44111516,Personal organizers,44111500,Organizers and accessories,44000000,Office Equipment and Accessories and Supplies,0.65,Legacy
+IOCL,Indian Oil Corporation,IOC-993892,inconel welded or brazed bar stock assemblies,IO192-30,LTR,Obsolete,31321404,Inconel welded or brazed bar stock assemblies,31321400,Welded or brazed bar stock assemblies,31000000,Manufacturing Components and Supplies,0.85,Manual
+IOCL,Indian Oil Corporation,IOC-325465,Manual swab test kits Assy,IO251-21,SET,Inactive,41112601,Manual swab test kits,41112600,Hygiene monitoring and testing equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.76,Legacy
+IOCL,Indian Oil Corporation,IOC-372804,TAPE_TESTERS,IO131-61,BOX,Obsolete,41113712,Tape testers,41113700,Electronic and communication measuring and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.78,Manual
+IOCL,Indian Oil Corporation,IOC-584487,plastic bonded off tool isotropic barium ferrite magnet,IO923-27,EA,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-237064,Seilbmessa Kcots Rab Detevir X Yollatsah,IO943-61,NOS,Duplicate,31321303,Hastalloy X riveted bar stock assemblies,31321300,Riveted bar stock assemblies,31000000,Manufacturing Components and Supplies,0.79,Manual
+IOCL,Indian Oil Corporation,IOC-122859,serological pipettes,IO302-92,KG,Active,41121511,Serological pipettes,41121500,Pipettes and liquid handling equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.95,Legacy
+IOCL,Indian Oil Corporation,IOC-228479,PLASTIC BONDED OFF TOOL ANISOTROPIC FERROUS ALUMINUM NICKEL COBALT MAGNET,IO572-16,PKT,Inactive,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-961599,"Carbon steel pipe toilet flange, Industrial Grade",IO608-13,MTR,Active,40174801,Carbon steel pipe toilet flange,40174800,Pipe toilet flanges,40000000,Distribution and Conditioning Systems and Equipment and Components,0.68,AI
+IOCL,Indian Oil Corporation,IOC-388339,Item-Automotive-HVAC-actuator,IO556-29,PKT,Duplicate,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-357724,Item-Brass-shim-stock,IO610-62,SQM,Active,31231401,Brass shim stock,31231400,Shim stock,31000000,Manufacturing Components and Supplies,0.54,
+IOCL,Indian Oil Corporation,IOC-243902,"Carbon steel pipe toilet flange, Industrial Grade",IO304-92,BOX,Active,40174801,Carbon steel pipe toilet flange,40174800,Pipe toilet flanges,40000000,Distribution and Conditioning Systems and Equipment and Components,0.82,Manual
+IOCL,Indian Oil Corporation,IOC-501078,Carbon steel bonded bar stock assemblies Assy,IO591-79,SET,Duplicate,31321102,Carbon steel bonded bar stock assemblies,31321100,Bonded bar stock assemblies,31000000,Manufacturing Components and Supplies,0.75,
+IOCL,Indian Oil Corporation,IOC-383572,LOAD_FRAME,IO126-50,EA,Active,41114613,Load frame,41114600,Metals and metallurgy and structural materials testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.53,
+IOCL,Indian Oil Corporation,IOC-655149,Laboratory reactor Assy,IO885-84,KG,Active,41103817,Laboratory reactor,41103800,Laboratory mixing and stirring and shaking equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.62,AI
+IOCL,Indian Oil Corporation,IOC-379473,COCK VALVE,IO882-38,MTR,Active,40141654,Cock valve,40141600,Valves,40000000,Distribution and Conditioning Systems and Equipment and Components,0.97,AI
+IOCL,Indian Oil Corporation,IOC-284654,Nmuloc Draug Ci Yhpargotamorhc Noi,IO706-50,SET,Duplicate,41115729,Ion chromatography IC guard column,41115700,Chromatographic measuring instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,Legacy
+IOCL,Indian Oil Corporation,IOC-695225,NON_FERROUS_ALLOY_IMPACT_EXTRUSIONS,IO676-34,SQM,Duplicate,31111609,Non ferrous alloy impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.65,
+IOCL,Indian Oil Corporation,IOC-139807,tamper proof or security seals,IO157-39,EA,Duplicate,24141504,Tamper proof or security seals,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.74,Legacy
+IOCL,Indian Oil Corporation,IOC-743966,Sretnirp Rettolp,IO925-26,KG,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-162448,DIGITAL SUBSCRIBER LOOP DSL CUSTOMER PREMISE EQUIPMENT CPE PLAIN OLD TELEPHONE SYSTEM POTS SPLITTER,IO251-85,KG,Active,43221603,Digital subscriber loop DSL customer premise equipment CPE plain old telephone system POTS splitter,43221600,Digital subscriber loop DSL access equipment and components and accessories,43000000,Information Technology Broadcasting and Telecommunications,0.92,Legacy
+IOCL,Indian Oil Corporation,IOC-176054,Flowmeters Assy,IO821-94,NOS,Active,41112501,Flowmeters,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.65,AI
+IOCL,Indian Oil Corporation,IOC-265154,"Non electrical aluminum cables, Industrial Grade",IO910-91,SET,Active,31151707,Non electrical aluminum cables,31151700,Mechanical cable,31000000,Manufacturing Components and Supplies,0.85,Legacy
+IOCL,Indian Oil Corporation,IOC-334081,FLOOR_SWEEPERS,IO487-49,LTR,Active,47121612,Floor sweepers,47121600,Floor machines and accessories,47000000,Cleaning Equipment and Supplies,0.59,Manual
+IOCL,Indian Oil Corporation,IOC-836109,"Laboratory clamps, Industrial Grade",IO971-82,PKT,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-948095,Seilbmessa Ebut Detlob Lenocni,IO754-82,SQM,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-447255,housings for filters,IO343-54,KG,Obsolete,40161525,Housings for filters,40161500,Filters,40000000,Distribution and Conditioning Systems and Equipment and Components,0.94,Manual
+IOCL,Indian Oil Corporation,IOC-961574,Managed lease line network MLLN equipment Assy,IO557-11,MT,Obsolete,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-171087,Helical speed reducer Assy,IO362-23,EA,Inactive,26111538,Helical speed reducer,26111500,Kinetic power transmission,26000000,Power Generation and Distribution Machinery and Accessories,0.72,
+IOCL,Indian Oil Corporation,IOC-274418,"Conjugated nucleotides or oligomers, Industrial Grade",IO604-58,MTR,Active,41105327,Conjugated nucleotides or oligomers,41105300,Laboratory electrophoresis and blotting system and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.91,AI
+IOCL,Indian Oil Corporation,IOC-270557,GD-MULTI CO,IO175-14,SET,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-209812,tissue culture coated plates or dishes or inserts,IO450-31,KG,Obsolete,41122107,Tissue culture coated plates or dishes or inserts,41122100,Tissue culture and high throughput screening supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.54,Manual
+IOCL,Indian Oil Corporation,IOC-454366,GD-PRESSURE,IO821-13,KG,Duplicate,41112404,Pressure regulator,41112400,Pressure measuring and control instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.94,AI
+IOCL,Indian Oil Corporation,IOC-156157,wheels,IO439-36,MTR,Obsolete,31162702,Wheels,31162700,Rolling hardware,31000000,Manufacturing Components and Supplies,0.78,Legacy
+IOCL,Indian Oil Corporation,IOC-792687,Item-Embedding-molds,IO404-40,MTR,Duplicate,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-676363,GD-NON META,IO257-16,MTR,Active,31282313,Non metallic stretch formed components,31282300,Stretch formed components,31000000,Manufacturing Components and Supplies,0.65,
+IOCL,Indian Oil Corporation,IOC-309374,non ferrous alloy impact extrusions,IO126-36,LTR,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-596574,tin profile extrusions,IO415-60,LTR,Active,31111515,Tin profile extrusions,31111500,Profile extrusions,31000000,Manufacturing Components and Supplies,0.82,
+IOCL,Indian Oil Corporation,IOC-293862,Epoxy conformal coating Assy,IO490-57,EA,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-561101,GD-S TRAP,IO369-38,PKT,Active,40142515,S trap,40142500,Traps and strainers,40000000,Distribution and Conditioning Systems and Equipment and Components,0.58,Manual
+IOCL,Indian Oil Corporation,IOC-189870,Warm forged machined bronze forging Assy,IO927-79,PKT,Active,31133305,Warm forged machined bronze forging,31133300,Bronze forgings,31000000,Manufacturing Components and Supplies,0.78,
+IOCL,Indian Oil Corporation,IOC-958160,"Non ferrous alloy impact extrusions, Industrial Grade",IO648-97,SQM,Duplicate,31111609,Non ferrous alloy impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.94,
+IOCL,Indian Oil Corporation,IOC-413369,antenna accessory,IO504-14,BOX,Duplicate,43221727,Antenna accessory,43221700,Fixed network equipment and components,43000000,Information Technology Broadcasting and Telecommunications,0.84,AI
+IOCL,Indian Oil Corporation,IOC-226124,GD-CARBON S,IO277-31,MT,Active,31361502,Carbon steel ultra violet welded plate assemblies,31361500,Ultra violet welded UV plate assemblies,31000000,Manufacturing Components and Supplies,0.52,Manual
+IOCL,Indian Oil Corporation,IOC-816308,"Floor sweepers, Industrial Grade",IO306-90,PKT,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-435281,nickel alloy machined cold extrusions,IO189-59,BOX,Active,31291319,Nickel alloy machined cold extrusions,31291300,Machined cold extrusions,31000000,Manufacturing Components and Supplies,0.93,
+IOCL,Indian Oil Corporation,IOC-112964,"Electrophoresis system, Industrial Grade",IO215-63,PKT,Duplicate,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-710981,rotary coupling,IO208-82,LTR,Duplicate,31163014,Rotary coupling,31163000,Couplings,31000000,Manufacturing Components and Supplies,0.94,
+IOCL,Indian Oil Corporation,IOC-376967,"Lead impact extrusions, Industrial Grade",IO770-72,SQM,Active,31111607,Lead impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.59,
+IOCL,Indian Oil Corporation,IOC-250840,"Osmometer accessories, Industrial Grade",IO139-60,SET,Obsolete,41113039,Osmometer accessories,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.62,
+IOCL,Indian Oil Corporation,IOC-381631,Hot forged heat treated beryllium forging Assy,IO120-53,LTR,Active,31133010,Hot forged heat treated beryllium forging,31133000,Beryllium forgings,31000000,Manufacturing Components and Supplies,0.64,
+IOCL,Indian Oil Corporation,IOC-999924,ultracentrifuges,IO989-39,SQM,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-382507,"Freeze plugs, Industrial Grade",IO719-92,SQM,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-963994,"Tarpaulins, Industrial Grade",IO858-72,SET,Active,24141506,Tarpaulins,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.76,AI
+IOCL,Indian Oil Corporation,IOC-168804,Item-Diagnostic-beverages-for-laboratory-testing,IO826-74,BOX,Duplicate,41116206,Diagnostic beverages for laboratory testing,41116200,Patient point of care testing supplies and equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,AI
+IOCL,Indian Oil Corporation,IOC-973390,Spmalc Yrotarobal,IO957-17,SQM,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-477880,Gnilpuoc Epip Citsalp Cvp,IO380-57,BOX,Inactive,40172608,PVC plastic pipe coupling,40172600,Pipe couplings,40000000,Distribution and Conditioning Systems and Equipment and Components,0.82,Manual
+IOCL,Indian Oil Corporation,IOC-814263,BATTERY DRIVEN WHITEBOARD ERASER,IO347-57,SQM,Active,44111913,Battery driven whiteboard eraser,44111900,Boards,44000000,Office Equipment and Accessories and Supplies,0.98,
+IOCL,Indian Oil Corporation,IOC-715388,Helical speed reducer Assy,IO452-30,LTR,Obsolete,26111538,Helical speed reducer,26111500,Kinetic power transmission,26000000,Power Generation and Distribution Machinery and Accessories,0.92,Manual
+IOCL,Indian Oil Corporation,IOC-398916,TARPAULINS,IO495-16,PKT,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-998746,Tnempiuqe Gnitfis Yrotarobal,IO762-38,LTR,Obsolete,41105002,Laboratory sifting equipment,41105000,Laboratory sieves and sifting equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.7,Manual
+IOCL,Indian Oil Corporation,IOC-918207,CARDED PACKAGING,IO585-26,PKT,Active,24121504,Carded packaging,24121500,Packaging boxes and bags and pouches,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.61,Legacy
+IOCL,Indian Oil Corporation,IOC-847362,Item-Thermoplastic-gas-assisted-injection-molding-assembly,IO533-58,SQM,Active,31142005,Thermoplastic gas assisted injection molding assembly,31142000,Thermoplastic molding assemblies,31000000,Manufacturing Components and Supplies,0.61,Legacy
+IOCL,Indian Oil Corporation,IOC-810091,"Histology analyzer accessories or supplies, Industrial Grade",IO698-23,SET,Duplicate,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-778787,Item-Motor-Drive-Software,IO405-97,NOS,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-389913,Cytocentrifuge Assy,IO982-45,LTR,Active,,,,,,,,
+IOCL,Indian Oil Corporation,IOC-257212,Segufirtnecartlu,IO158-86,SET,Obsolete,41103907,Ultracentrifuges,41103900,Laboratory centrifuges and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.57,Manual
+IOCL,Indian Oil Corporation,IOC-787237,GD-PUMP COL,IO402-43,MTR,Inactive,40151735,Pump column assembly,40151700,Pump parts and accessories,40000000,Distribution and Conditioning Systems and Equipment and Components,0.87,AI
+NTPC,NTPC Limited,NTP-861842,Sreyrd Yart,NT802-78,SQM,Obsolete,41104703,Tray dryers,41104700,Laboratory freeze dryers and lyopholizers and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.68,Legacy
+NTPC,NTPC Limited,NTP-986486,LAUNDRY_WORK_TABLE,NT960-94,KG,Active,47111509,Laundry work table,47111500,Washing and drying equipment,47000000,Cleaning Equipment and Supplies,0.55,AI
+NTPC,NTPC Limited,NTP-876909,Item-Plastic-bonded-off-tool-anisotropic-ferrous-aluminum-nickel-cobalt-magnet,NT842-81,KG,Obsolete,31381444,Plastic bonded off tool anisotropic ferrous aluminum nickel cobalt magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.95,Manual
+NTPC,NTPC Limited,NTP-333049,Plastic bonded injection molded machined and coated anisotropic samarium cobalt magnet Assy,NT328-49,SET,Active,31381521,Plastic bonded injection molded machined and coated anisotropic samarium cobalt magnet,31381500,Injection molded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.63,Legacy
+NTPC,NTPC Limited,NTP-586288,simplex and duplex fiber optic cable,NT581-16,PKT,Duplicate,26121655,Simplex and duplex fiber optic cable,26121600,Electrical cable and accessories,26000000,Power Generation and Distribution Machinery and Accessories,0.97,Manual
+NTPC,NTPC Limited,NTP-595158,Sehsurb Tleb Royevnoc,NT612-25,MTR,Duplicate,24101719,Conveyor belt brushes,24101700,Conveyors and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.65,Manual
+NTPC,NTPC Limited,NTP-995735,OIL_FOAMING_CHARACTERISTICS_TESTER,NT240-35,PKT,Inactive,,,,,,,,
+NTPC,NTPC Limited,NTP-250181,Rotary coupling Assy,NT983-33,SQM,Active,31163014,Rotary coupling,31163000,Couplings,31000000,Manufacturing Components and Supplies,0.82,AI
+NTPC,NTPC Limited,NTP-428638,CLOTHES DRYERS,NT104-67,KG,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-901619,DIGITAL_SUBSCRIBER_LOOP_DSL_CAPTIVE_OFFICE_PLAIN_OLD_TELEPHONE_SYSTEM_POTS_SPLITTER,NT601-21,MTR,Obsolete,,,,,,,,
+NTPC,NTPC Limited,NTP-550268,"Plastic bonded off tool isotropic barium ferrite magnet, Industrial Grade",NT539-71,EA,Duplicate,31381435,Plastic bonded off tool isotropic barium ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.6,Legacy
+NTPC,NTPC Limited,NTP-114760,Chain drives Assy,NT875-77,EA,Obsolete,,,,,,,,
+NTPC,NTPC Limited,NTP-869238,Srexim Yrotarobal,NT331-98,LTR,Active,41103801,Laboratory mixers,41103800,Laboratory mixing and stirring and shaking equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.55,Legacy
+NTPC,NTPC Limited,NTP-275133,laboratory spoon,NT943-15,LTR,Inactive,,,,,,,,
+NTPC,NTPC Limited,NTP-863187,Iron v process machined castings Assy,NT544-97,SET,Inactive,31121005,Iron v process machined castings,31121000,Machined v process castings,31000000,Manufacturing Components and Supplies,0.68,AI
+NTPC,NTPC Limited,NTP-272892,"Small paper bags of wet absorbing salts, Industrial Grade",NT119-39,KG,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-869735,SLUDGE OR SEWAGE COMPOSTING EQUIPMENT,NT703-74,SET,Obsolete,,,,,,,,
+NTPC,NTPC Limited,NTP-782141,INCONEL ULTRA VIOLET WELDED PIPE ASSEMBLIES,NT484-91,BOX,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-150947,PUMP COLUMN ASSEMBLY,NT777-23,EA,Active,40151735,Pump column assembly,40151700,Pump parts and accessories,40000000,Distribution and Conditioning Systems and Equipment and Components,0.84,
+NTPC,NTPC Limited,NTP-565897,"Radioactive waste solidification systems, Industrial Grade",NT226-80,KG,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-828961,HOT FORGED MACHINED TIN FORGING,NT408-63,BOX,Active,31133409,Hot forged machined tin forging,31133400,Tin forgings,31000000,Manufacturing Components and Supplies,0.81,AI
+NTPC,NTPC Limited,NTP-539170,sinteredisotropic strontium ferrite magnet assembly,NT623-89,NOS,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-621917,Srotardyhed,NT723-35,BOX,Active,41104208,Dehydrators,41104200,Laboratory water purification equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.68,
+NTPC,NTPC Limited,NTP-409698,VACUUM_OR_ROTARY_EVAPORATORS,NT140-80,MT,Obsolete,41104804,Vacuum or rotary evaporators,41104800,Laboratory decanting and distilling and evaporating and extracting equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.97,Legacy
+NTPC,NTPC Limited,NTP-345896,STIRRING HOTPLATES,NT113-95,NOS,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-801520,GD-NON FERR,NT252-21,NOS,Obsolete,31111609,Non ferrous alloy impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.86,Legacy
+NTPC,NTPC Limited,NTP-775636,Flehs Rettilps Eciffo Evitpac Lsd Pool Rebircsbus Latigid,NT567-47,EA,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-952679,NEUTRON_GENERATORS,NT995-15,SET,Obsolete,26142007,Neutron generators,26142000,Irradiation equipment,26000000,Power Generation and Distribution Machinery and Accessories,0.66,Manual
+NTPC,NTPC Limited,NTP-199613,CAPSULE TUBES OR CAPS,NT109-27,KG,Active,24141709,Capsule tubes or caps,24141700,Packaging tubes and cores and labels and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.68,
+NTPC,NTPC Limited,NTP-752011,Item-Cold-forged-machined-and-heat-treated-beryllium-forging,NT999-21,SET,Active,31133003,Cold forged machined and heat treated beryllium forging,31133000,Beryllium forgings,31000000,Manufacturing Components and Supplies,0.56,
+NTPC,NTPC Limited,NTP-578715,Item-Inconel-bolted-structural-assemblies,NT955-59,SQM,Inactive,31331204,Inconel bolted structural assemblies,31331200,Bolted structural assemblies,31000000,Manufacturing Components and Supplies,0.82,AI
+NTPC,NTPC Limited,NTP-218548,DIGITAL_TESTERS,NT812-17,KG,Active,41111917,Digital testers,41111900,Indicating and recording instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.71,
+NTPC,NTPC Limited,NTP-941235,GD-FLOCCULE,NT285-88,SET,Duplicate,47101608,Flocculents,47101600,Water treatment consumables,47000000,Cleaning Equipment and Supplies,0.51,AI
+NTPC,NTPC Limited,NTP-606545,GD-MANUAL L,NT215-62,NOS,Active,44121617,Manual letter openers,44121600,Desk supplies,44000000,Office Equipment and Accessories and Supplies,0.83,Manual
+NTPC,NTPC Limited,NTP-838793,Seilbmessa Larutcurts Detevir Reppoc,NT785-53,PKT,Active,31331712,Copper riveted structural assemblies,31331700,Riveted structural assemblies,31000000,Manufacturing Components and Supplies,0.72,AI
+NTPC,NTPC Limited,NTP-605339,Carbon steel ultra violet welded plate assemblies Assy,NT779-96,KG,Duplicate,31361502,Carbon steel ultra violet welded plate assemblies,31361500,Ultra violet welded UV plate assemblies,31000000,Manufacturing Components and Supplies,0.95,Manual
+NTPC,NTPC Limited,NTP-112210,CARDED_PACKAGING,NT617-70,KG,Active,24121504,Carded packaging,24121500,Packaging boxes and bags and pouches,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.88,Legacy
+NTPC,NTPC Limited,NTP-352593,Aluminum bonded structural assemblies Assy,NT384-16,BOX,Obsolete,31331101,Aluminum bonded structural assemblies,31331100,Bonded structural assemblies,31000000,Manufacturing Components and Supplies,0.69,AI
+NTPC,NTPC Limited,NTP-182659,GD-WATER SE,NT554-83,SQM,Inactive,41111965,Water sensor,41111900,Indicating and recording instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.66,
+NTPC,NTPC Limited,NTP-881439,IRON V PROCESS MACHINED CASTINGS,NT205-61,BOX,Duplicate,31121005,Iron v process machined castings,31121000,Machined v process castings,31000000,Manufacturing Components and Supplies,0.5,Manual
+NTPC,NTPC Limited,NTP-930244,Item-Hastalloy-X-riveted-bar-stock-assemblies,NT620-81,SQM,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-480992,QUICK ACTION CLAMP,NT936-38,SET,Duplicate,31162916,Quick action clamp,31162900,Clamps,31000000,Manufacturing Components and Supplies,0.88,
+NTPC,NTPC Limited,NTP-851470,Aluminum bonded structural assemblies Assy,NT833-67,MT,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-457938,Ball valves Assy,NT949-91,LTR,Duplicate,40141607,Ball valves,40141600,Valves,40000000,Distribution and Conditioning Systems and Equipment and Components,0.76,Manual
+NTPC,NTPC Limited,NTP-148001,VEGETATION_NUTRITION_INSPECTION_DEVICE,NT604-27,MTR,Active,41106707,Vegetation nutrition inspection device,41106700,Laboratory botanical equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.63,AI
+NTPC,NTPC Limited,NTP-296653,collection tanks,NT972-60,MT,Obsolete,,,,,,,,
+NTPC,NTPC Limited,NTP-454349,conjugated nucleotides or oligomers,NT875-63,PKT,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-909652,GD-DIGITAL ,NT568-94,BOX,Active,43222623,Digital cross connects DCX equipment,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.98,Manual
+NTPC,NTPC Limited,NTP-656127,GRID COUPLING,NT666-65,SQM,Duplicate,31163006,Grid coupling,31163000,Couplings,31000000,Manufacturing Components and Supplies,0.89,AI
+NTPC,NTPC Limited,NTP-825423,PRE_IGNITION_KNOCK_SENSOR,NT848-26,PKT,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-437477,"Ball valves, Industrial Grade",NT528-87,MT,Active,40141607,Ball valves,40141600,Valves,40000000,Distribution and Conditioning Systems and Equipment and Components,0.7,Legacy
+NTPC,NTPC Limited,NTP-408463,GD-PERSONAL,NT924-27,PKT,Obsolete,,,,,,,,
+NTPC,NTPC Limited,NTP-884782,Item-Water-sensor,NT963-99,SET,Obsolete,41111965,Water sensor,41111900,Indicating and recording instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.87,AI
+NTPC,NTPC Limited,NTP-310647,Woble Epip Leets Dezinavlag,NT739-47,KG,Obsolete,40172815,Galvanized steel pipe elbow,40172800,Pipe elbows,40000000,Distribution and Conditioning Systems and Equipment and Components,0.83,AI
+NTPC,NTPC Limited,NTP-628370,Water sensor Assy,NT827-24,BOX,Inactive,41111965,Water sensor,41111900,Indicating and recording instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.79,
+NTPC,NTPC Limited,NTP-806995,Item-Vectorscope,NT998-64,BOX,Active,41115335,Vectorscope,41115300,Light and wave generating and measuring equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,AI
+NTPC,NTPC Limited,NTP-155642,TISSUE CULTURE APPARATUS,NT304-44,KG,Active,41102910,Tissue culture apparatus,41102900,Histology equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.84,AI
+NTPC,NTPC Limited,NTP-980155,RUBBER MACHINED IMPACT EXTRUSIONS,NT807-47,BOX,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-476105,GD-COLD FOR,NT204-88,BOX,Active,31132801,Cold forged machined magnesium forging,31132800,Magnesium forgings,31000000,Manufacturing Components and Supplies,0.87,
+NTPC,NTPC Limited,NTP-349136,Item-Cold-forged-machined-and-heat-treated-beryllium-forging,NT809-95,MTR,Inactive,,,,,,,,
+NTPC,NTPC Limited,NTP-536801,Computer cable holder Assy,NT665-16,LTR,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-750706,GD-DIGITAL ,NT949-38,SET,Duplicate,43221603,Digital subscriber loop DSL customer premise equipment CPE plain old telephone system POTS splitter,43221600,Digital subscriber loop DSL access equipment and components and accessories,43000000,Information Technology Broadcasting and Telecommunications,0.77,AI
+NTPC,NTPC Limited,NTP-913848,Selbac Munimula Lacirtcele Non,NT401-67,NOS,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-282237,memory drivers,NT486-15,BOX,Active,43233418,Memory drivers,43233400,Utility and device driver software,43000000,Information Technology Broadcasting and Telecommunications,0.57,Legacy
+NTPC,NTPC Limited,NTP-105919,Copper pipe cross Assy,NT577-29,SET,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-153325,Item-Test-bar,NT602-83,NOS,Obsolete,41114523,Test bar,41114500,Mechanical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.66,AI
+NTPC,NTPC Limited,NTP-292800,electrophoresis system,NT905-74,BOX,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-523013,urinalysis reagents or solutions or stains,NT457-38,SET,Active,41116137,Urinalysis reagents or solutions or stains,41116100,Manual test kits and quality controls and calibrators and standards,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.68,AI
+NTPC,NTPC Limited,NTP-889216,GD-LIQUID N,NT674-93,SET,Inactive,,,,,,,,
+NTPC,NTPC Limited,NTP-352023,Sknat Noitcelloc,NT140-97,MTR,Active,47101523,Collection tanks,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.69,Legacy
+NTPC,NTPC Limited,NTP-125905,Network security and virtual private network VPN equipment software Assy,NT626-75,EA,Active,43233204,Network security and virtual private network VPN equipment software,43233200,Security and protection software,43000000,Information Technology Broadcasting and Telecommunications,0.95,AI
+NTPC,NTPC Limited,NTP-435872,tin plaster mold machined castings,NT198-31,BOX,Duplicate,31121414,Tin plaster mold machined castings,31121400,Machined plaster mold castings,31000000,Manufacturing Components and Supplies,0.5,Manual
+NTPC,NTPC Limited,NTP-321020,Sniluaprat,NT985-97,NOS,Active,24141506,Tarpaulins,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.77,
+NTPC,NTPC Limited,NTP-777968,manual swab test kits,NT864-97,SQM,Obsolete,,,,,,,,
+NTPC,NTPC Limited,NTP-447828,MULTI CORE 600 VOLT CLASS F AUTOMOTIVE CABLE,NT189-19,LTR,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-173863,Pmup Xelfonom,NT364-62,MTR,Inactive,40151569,Monoflex pump,40151500,Pumps,40000000,Distribution and Conditioning Systems and Equipment and Components,0.66,
+NTPC,NTPC Limited,NTP-806004,fluorocarbon adhesive,NT647-10,PKT,Active,31201633,Fluorocarbon adhesive,31201600,Adhesives,31000000,Manufacturing Components and Supplies,0.88,Manual
+NTPC,NTPC Limited,NTP-834928,welded metal components,NT466-74,LTR,Duplicate,,,,,,,,
+NTPC,NTPC Limited,NTP-190707,Item-Pump-column-assembly,NT883-66,EA,Inactive,40151735,Pump column assembly,40151700,Pump parts and accessories,40000000,Distribution and Conditioning Systems and Equipment and Components,0.58,AI
+NTPC,NTPC Limited,NTP-243006,"Digital subscriber loop DSL customer premise equipment CPE plain old telephone system POTS splitter, Industrial Grade",NT915-79,KG,Active,,,,,,,,
+NTPC,NTPC Limited,NTP-810189,Carbon steel pipe toilet flange Assy,NT111-80,KG,Active,40174801,Carbon steel pipe toilet flange,40174800,Pipe toilet flanges,40000000,Distribution and Conditioning Systems and Equipment and Components,0.52,
+NMDC,National Mineral Development Corp,NMD-674122,vacuum or rotary evaporators,NM412-36,SET,Active,41104804,Vacuum or rotary evaporators,41104800,Laboratory decanting and distilling and evaporating and extracting equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.71,AI
+NMDC,National Mineral Development Corp,NMD-268772,CYTOCENTRIFUGE,NM326-88,MT,Active,41103914,Cytocentrifuge,41103900,Laboratory centrifuges and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.59,Manual
+NMDC,National Mineral Development Corp,NMD-992744,GD-STAINLES,NM760-80,NOS,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-202972,Ebut Tropitlum Reppoc Dedurtxe,NM843-84,SET,Active,40182504,Extruded copper multiport tube,40182500,Extruded copper tubes,40000000,Distribution and Conditioning Systems and Equipment and Components,0.56,AI
+NMDC,National Mineral Development Corp,NMD-204904,Item-Quick-action-clamp,NM734-18,SET,Inactive,31162916,Quick action clamp,31162900,Clamps,31000000,Manufacturing Components and Supplies,0.73,Legacy
+NMDC,National Mineral Development Corp,NMD-827143,METAL_CLEANERS_OR_POLISHES,NM679-82,SET,Inactive,47131814,Metal cleaners or polishes,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.58,Legacy
+NMDC,National Mineral Development Corp,NMD-358133,Retlif Deretnis Erutarepmet Hgih Leets Sselniats,NM829-92,SET,Active,31421505,Stainless steel high temperature sintered filter,31421500,Sintered filters,31000000,Manufacturing Components and Supplies,0.84,Legacy
+NMDC,National Mineral Development Corp,NMD-603268,GD-FLOWMETE,NM556-55,SQM,Duplicate,41112501,Flowmeters,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.55,Manual
+NMDC,National Mineral Development Corp,NMD-982683,Item-Stirring-hotplates,NM979-27,MT,Active,41102423,Stirring hotplates,41102400,Laboratory heating and drying equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.87,Manual
+NMDC,National Mineral Development Corp,NMD-862760,kits for messenger ribonucleic acid mrna quantitation by polymerase chain reaction pcr,NM119-74,PKT,Duplicate,41106304,Kits for messenger ribonucleic acid mRNA quantitation by polymerase chain reaction PCR,41106300,Polymerase chain reaction PCR and reverse transcriptase polymerase chain reaction RT PCR products,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.7,AI
+NMDC,National Mineral Development Corp,NMD-138436,Item-Computer-cradles,NM656-79,KG,Active,43201611,Computer cradles,43201600,Chassis components,43000000,Information Technology Broadcasting and Telecommunications,0.7,Legacy
+NMDC,National Mineral Development Corp,NMD-240384,GD-QUICK AC,NM613-75,SET,Duplicate,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-111106,Erawtfos Noitargetni Noitacilppa Esirpretne,NM968-88,BOX,Active,43232403,Enterprise application integration software,43232400,Development software,43000000,Information Technology Broadcasting and Telecommunications,0.72,AI
+NMDC,National Mineral Development Corp,NMD-693868,CPVC_PLASTIC_PIPE_SOCKETWELD_FLANGE,NM853-71,EA,Active,40174105,CPVC plastic pipe socketweld flange,40174100,Pipe socketweld flanges,40000000,Distribution and Conditioning Systems and Equipment and Components,0.88,AI
+NMDC,National Mineral Development Corp,NMD-165914,Item-Serological-pipettes,NM478-39,MT,Duplicate,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-929906,Plastic bonded off tool isotropic barium ferrite magnet Assy,NM497-70,EA,Active,31381435,Plastic bonded off tool isotropic barium ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.99,Legacy
+NMDC,National Mineral Development Corp,NMD-208239,Item-Motor-coil,NM954-43,PKT,Active,26101405,Motor coil,26101400,Motor or generator components,26000000,Power Generation and Distribution Machinery and Accessories,0.69,
+NMDC,National Mineral Development Corp,NMD-483041,computer switch boxes,NM629-42,MT,Duplicate,43211601,Computer switch boxes,43211600,Computer accessories,43000000,Information Technology Broadcasting and Telecommunications,0.7,Legacy
+NMDC,National Mineral Development Corp,NMD-610511,GD-MOUNTING,NM718-10,KG,Inactive,31162312,Mounting pins,31162300,Mounting hardware,31000000,Manufacturing Components and Supplies,0.58,Manual
+NMDC,National Mineral Development Corp,NMD-639535,Item-Cell-metabolism-analyzer,NM316-29,SET,Duplicate,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-852146,tin profile extrusions,NM776-39,SET,Obsolete,31111515,Tin profile extrusions,31111500,Profile extrusions,31000000,Manufacturing Components and Supplies,0.56,
+NMDC,National Mineral Development Corp,NMD-602290,Seilbmessa Kcots Rab Detevir X Yollatsah,NM704-30,MTR,Active,31321303,Hastalloy X riveted bar stock assemblies,31321300,Riveted bar stock assemblies,31000000,Manufacturing Components and Supplies,0.62,AI
+NMDC,National Mineral Development Corp,NMD-701344,HDPE_PLASTIC_PIPE_TEE,NM237-90,PKT,Active,40174611,HDPE plastic pipe tee,40174600,Pipe tees,40000000,Distribution and Conditioning Systems and Equipment and Components,0.53,Legacy
+NMDC,National Mineral Development Corp,NMD-288783,"Hot forged machined tin forging, Industrial Grade",NM713-82,LTR,Active,31133409,Hot forged machined tin forging,31133400,Tin forgings,31000000,Manufacturing Components and Supplies,0.61,
+NMDC,National Mineral Development Corp,NMD-605065,STEEL_HIGH_PRECISION_MACHINING,NM324-62,PKT,Active,31391703,Steel high precision machining,31391700,High precision machinings,31000000,Manufacturing Components and Supplies,0.81,Legacy
+NMDC,National Mineral Development Corp,NMD-275868,Kaptan wire Assy,NM564-86,MT,Inactive,26121533,Kaptan wire,26121500,Electrical wire,26000000,Power Generation and Distribution Machinery and Accessories,0.69,Manual
+NMDC,National Mineral Development Corp,NMD-117367,Setalp Kcod,NM635-74,KG,Duplicate,24101807,Dock plates,24101800,Dock equipment,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.55,
+NMDC,National Mineral Development Corp,NMD-744610,CONVEYOR BELT BRUSHES,NM998-78,NOS,Active,24101719,Conveyor belt brushes,24101700,Conveyors and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.74,AI
+NMDC,National Mineral Development Corp,NMD-732789,MULTI CORE 600 VOLT CLASS F AUTOMOTIVE CABLE,NM893-96,BOX,Inactive,26121831,Multi core 600 volt class f automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.69,Manual
+NMDC,National Mineral Development Corp,NMD-831531,"Oil foaming characteristics tester, Industrial Grade",NM334-71,MTR,Active,41113047,Oil foaming characteristics tester,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.79,Manual
+NMDC,National Mineral Development Corp,NMD-546157,FLOOR_SWEEPERS,NM360-71,NOS,Active,47121612,Floor sweepers,47121600,Floor machines and accessories,47000000,Cleaning Equipment and Supplies,0.8,
+NMDC,National Mineral Development Corp,NMD-370328,Sretaeper Krowten,NM105-10,NOS,Duplicate,43222608,Network repeaters,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.5,AI
+NMDC,National Mineral Development Corp,NMD-821175,Window envelopes Assy,NM518-56,MTR,Obsolete,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-713805,Item-Magnetometer-geophysical-instruments,NM367-78,SET,Duplicate,41113806,Magnetometer geophysical instruments,41113800,Geophysical and geotechnical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.64,
+NMDC,National Mineral Development Corp,NMD-891645,Snoisurtxe Tcapmi Yolla Suorref Non,NM523-80,SQM,Active,31111609,Non ferrous alloy impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.69,
+NMDC,National Mineral Development Corp,NMD-366105,Item-Inconel-ultra-violet-welded-pipe-assemblies,NM691-54,MTR,Obsolete,31311404,Inconel ultra violet welded pipe assemblies,31311400,Ultra violet welded UV pipe assemblies,31000000,Manufacturing Components and Supplies,0.57,Manual
+NMDC,National Mineral Development Corp,NMD-884140,Srepeews Roolf,NM557-99,NOS,Active,47121612,Floor sweepers,47121600,Floor machines and accessories,47000000,Cleaning Equipment and Supplies,0.75,Legacy
+NMDC,National Mineral Development Corp,NMD-939756,STAINLESS STEEL IMPACT EXTRUSIONS,NM264-59,EA,Active,31111613,Stainless steel impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.91,
+NMDC,National Mineral Development Corp,NMD-729402,"Load frame, Industrial Grade",NM190-18,SET,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-738613,LABORATORY CLAMPS,NM841-59,MTR,Duplicate,41122413,Laboratory clamps,41122400,Laboratory implements,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.83,Legacy
+NMDC,National Mineral Development Corp,NMD-846172,CASTISOTROPIC STRONTIUM FERRITE MAGNET ASSEMBLY,NM892-32,SQM,Active,31381147,Castisotropic strontium ferrite magnet assembly,31381100,Castmagnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.6,Legacy
+NMDC,National Mineral Development Corp,NMD-304206,MOUNTING PINS,NM902-86,MT,Duplicate,31162312,Mounting pins,31162300,Mounting hardware,31000000,Manufacturing Components and Supplies,0.58,Manual
+NMDC,National Mineral Development Corp,NMD-477214,Sreyrd Yart,NM770-10,NOS,Active,41104703,Tray dryers,41104700,Laboratory freeze dryers and lyopholizers and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,Legacy
+NMDC,National Mineral Development Corp,NMD-802191,"Tin plaster mold machined castings, Industrial Grade",NM515-85,EA,Obsolete,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-837801,haze meter,NM192-80,BOX,Duplicate,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-465004,Battery driven whiteboard eraser Assy,NM935-45,MT,Inactive,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-523579,DEHYDRATORS,NM367-32,NOS,Duplicate,41104208,Dehydrators,41104200,Laboratory water purification equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.54,Legacy
+NMDC,National Mineral Development Corp,NMD-456480,copper riveted structural assemblies,NM922-75,BOX,Duplicate,31331712,Copper riveted structural assemblies,31331700,Riveted structural assemblies,31000000,Manufacturing Components and Supplies,0.63,
+NMDC,National Mineral Development Corp,NMD-495397,GD-MULTIMED,NM888-41,SQM,Obsolete,43223203,Multimedia service center,43223200,Mobile messaging platforms,43000000,Information Technology Broadcasting and Telecommunications,0.73,Manual
+NMDC,National Mineral Development Corp,NMD-605382,stirring hotplates,NM364-18,MT,Obsolete,41102423,Stirring hotplates,41102400,Laboratory heating and drying equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.85,Legacy
+NMDC,National Mineral Development Corp,NMD-532459,Thermoplastic injection multiple shot inserted molding assembly Assy,NM628-78,LTR,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-401244,chromatography blotting paper,NM508-96,SET,Active,41115727,Chromatography blotting paper,41115700,Chromatographic measuring instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.78,AI
+NMDC,National Mineral Development Corp,NMD-599704,Collection tanks Assy,NM462-37,LTR,Active,47101523,Collection tanks,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.97,AI
+NMDC,National Mineral Development Corp,NMD-623238,Seilbmessa Epip Dednob Leets Nobrac,NM340-40,MT,Active,31311702,Carbon steel bonded pipe assemblies,31311700,Bonded pipe assemblies,31000000,Manufacturing Components and Supplies,0.6,AI
+NMDC,National Mineral Development Corp,NMD-976960,Water sensor Assy,NM259-23,NOS,Obsolete,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-795650,GD-DUPLEXER,NM728-10,BOX,Active,44101703,Duplexer units,44101700,Printer and photocopier and facsimile accessories,44000000,Office Equipment and Accessories and Supplies,0.92,Legacy
+NMDC,National Mineral Development Corp,NMD-750817,Bleaches Assy,NM604-83,SQM,Active,47131807,Bleaches,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.99,Legacy
+NMDC,National Mineral Development Corp,NMD-517206,Sredderhs Epat Ro Ettessac,NM868-83,BOX,Inactive,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-601554,TELECOMMUNICATION TOWER OR SUPPORT,NM614-54,KG,Inactive,43222903,Telecommunication tower or support,43222900,Telephony equipment accessories,43000000,Information Technology Broadcasting and Telecommunications,0.99,
+NMDC,National Mineral Development Corp,NMD-430984,TAPE TESTERS,NM112-96,PKT,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-441244,Stainless steel profile extrusions Assy,NM727-43,LTR,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-382495,GD-CARDED P,NM727-53,SQM,Inactive,24121504,Carded packaging,24121500,Packaging boxes and bags and pouches,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.61,Legacy
+NMDC,National Mineral Development Corp,NMD-482812,"Telecommunication terminal units, Industrial Grade",NM386-67,KG,Duplicate,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-819335,Seilbmessa Kcots Rab Dezarb Ro Dedlew X Yollatsah,NM933-22,MT,Duplicate,31321403,Hastalloy X welded or brazed bar stock assemblies,31321400,Welded or brazed bar stock assemblies,31000000,Manufacturing Components and Supplies,0.72,
+NMDC,National Mineral Development Corp,NMD-305587,FUEL_INJECTOR_COIL_DIESEL,NM919-29,EA,Active,26101778,Fuel injector coil diesel,26101700,Engine components and accessories,26000000,Power Generation and Distribution Machinery and Accessories,0.71,AI
+NMDC,National Mineral Development Corp,NMD-990649,Spray kit Assy,NM904-72,BOX,Duplicate,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-150026,"Tin plaster mold machined castings, Industrial Grade",NM201-98,MT,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-599687,pressure regulator,NM560-52,SET,Duplicate,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-684572,Item-Network-security-and-virtual-private-network-VPN-equipment-software,NM452-12,SET,Obsolete,43233204,Network security and virtual private network VPN equipment software,43233200,Security and protection software,43000000,Information Technology Broadcasting and Telecommunications,0.98,AI
+NMDC,National Mineral Development Corp,NMD-704875,IMPEDANCE_METERS,NM899-46,BOX,Inactive,41113621,Impedance meters,41113600,Electrical measuring and testing equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,
+NMDC,National Mineral Development Corp,NMD-182216,"Thermoset injection molding insert, Industrial Grade",NM728-46,KG,Active,31142504,Thermoset injection molding insert,31142500,Thermoset molding inserts,31000000,Manufacturing Components and Supplies,0.82,Legacy
+NMDC,National Mineral Development Corp,NMD-542306,"HDPE plastic pipe tee, Industrial Grade",NM969-19,SET,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-428709,Conveyor liner Assy,NM768-47,PKT,Obsolete,24101726,Conveyor liner,24101700,Conveyors and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.7,
+NMDC,National Mineral Development Corp,NMD-918910,Pressed sintered and machined and coated isotropic barium ferrite magnet Assy,NM865-85,SQM,Inactive,31381313,Pressed sintered and machined and coated isotropic barium ferrite magnet,31381300,Pressed magnet and magnet assemblies,31000000,Manufacturing Components and Supplies,0.58,Manual
+NMDC,National Mineral Development Corp,NMD-231113,Gnigrof Yolla Suorref Non Detaert Taeh Dna Denihcam Degrof Dloc,NM777-42,NOS,Active,31132403,Cold forged machined and heat treated non ferrous alloy forging,31132400,Non ferrous alloy forgings,31000000,Manufacturing Components and Supplies,0.58,Manual
+NMDC,National Mineral Development Corp,NMD-200195,computer cable holder,NM999-70,EA,Inactive,43202217,Computer cable holder,43202200,Sub assemblies for electronic devices,43000000,Information Technology Broadcasting and Telecommunications,0.76,Manual
+NMDC,National Mineral Development Corp,NMD-208976,Item-Histology-tissue-cassette-storage-tray-or-box,NM732-29,MTR,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-340497,Nmuloc Draug Ci Yhpargotamorhc Noi,NM855-46,KG,Active,41115729,Ion chromatography IC guard column,41115700,Chromatographic measuring instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.76,AI
+NMDC,National Mineral Development Corp,NMD-129959,AIR VELOCITY AND TEMPERATURE MONITORS,NM779-55,SET,Inactive,41112509,Air velocity and temperature monitors,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.73,Legacy
+NMDC,National Mineral Development Corp,NMD-675191,GD-FLOWMETE,NM238-99,PKT,Duplicate,41112501,Flowmeters,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.73,
+NMDC,National Mineral Development Corp,NMD-648887,Item-Cold-forged-machined-and-heat-treated-beryllium-forging,NM455-71,NOS,Inactive,31133003,Cold forged machined and heat treated beryllium forging,31133000,Beryllium forgings,31000000,Manufacturing Components and Supplies,0.65,
+NMDC,National Mineral Development Corp,NMD-372427,PLATFORM_INTERCONNECTIVITY_SOFTWARE,NM410-11,KG,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-400692,GD-SINGLE C,NM647-11,SQM,Inactive,26121810,Single core 600 volt class a automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.65,
+NMDC,National Mineral Development Corp,NMD-936726,Item-Stainless-steel-impact-extrusions,NM711-39,BOX,Active,31111613,Stainless steel impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.59,
+NMDC,National Mineral Development Corp,NMD-513927,Snoisurtxe Eliforp Nit,NM267-92,MTR,Active,31111515,Tin profile extrusions,31111500,Profile extrusions,31000000,Manufacturing Components and Supplies,0.63,
+NMDC,National Mineral Development Corp,NMD-755698,Sretnirp Rettolp,NM629-88,LTR,Active,43212107,Plotter printers,43212100,Computer printers,43000000,Information Technology Broadcasting and Telecommunications,0.82,Legacy
+NMDC,National Mineral Development Corp,NMD-532961,Sgnidlom Noitcejni Rebbur,NM973-18,LTR,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-767830,GD-ZINC SPI,NM732-67,PKT,Inactive,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-296911,Functional tester Assy,NM119-29,BOX,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-294969,strapping tensioners or sealers,NM388-44,SQM,Obsolete,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-108602,Seilbmessa Epip Dednob Leets Nobrac,NM192-29,MT,Active,,,,,,,,
+NMDC,National Mineral Development Corp,NMD-540656,Item-Bronze-centrifugal-machined-castings,NM904-73,SQM,Obsolete,31121712,Bronze centrifugal machined castings,31121700,Machined centrifugal castings,31000000,Manufacturing Components and Supplies,0.9,Legacy
+NMDC,National Mineral Development Corp,NMD-184120,TRAY_DRYERS,NM157-44,NOS,Duplicate,41104703,Tray dryers,41104700,Laboratory freeze dryers and lyopholizers and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.74,AI
+NMDC,National Mineral Development Corp,NMD-982417,Item-Inconel-welded-or-brazed-bar-stock-assemblies,NM936-58,NOS,Obsolete,31321404,Inconel welded or brazed bar stock assemblies,31321400,Welded or brazed bar stock assemblies,31000000,Manufacturing Components and Supplies,0.62,
+HAL,Hindustan Aeronautics Ltd,HAL-873449,NICKEL ALLOY EXPLOSIVE FORMED COMPONENTS,HA303-68,NOS,Duplicate,31282411,Nickel alloy explosive formed components,31282400,Explosive formed components,31000000,Manufacturing Components and Supplies,0.83,AI
+HAL,Hindustan Aeronautics Ltd,HAL-595793,"Fiber sensors, Industrial Grade",HA797-49,KG,Obsolete,41112103,Fiber sensors,41112100,Transducers,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.86,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-365617,GD-EPOXY CO,HA753-48,EA,Obsolete,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-328367,diagnostic beverages for laboratory testing,HA341-91,EA,Active,41116206,Diagnostic beverages for laboratory testing,41116200,Patient point of care testing supplies and equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.9,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-515035,Troppus Ro Rewot Noitacinummocelet,HA109-15,SQM,Obsolete,43222903,Telecommunication tower or support,43222900,Telephony equipment accessories,43000000,Information Technology Broadcasting and Telecommunications,0.8,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-908239,bacteria transformation kits,HA354-30,PKT,Active,41106203,Bacteria transformation kits,41106200,Microorganism propagation and transformation media and kits and equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.97,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-162678,Battery driven whiteboard eraser Assy,HA760-29,NOS,Active,44111913,Battery driven whiteboard eraser,44111900,Boards,44000000,Office Equipment and Accessories and Supplies,0.74,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-685472,Duplexer units Assy,HA924-66,EA,Obsolete,44101703,Duplexer units,44101700,Printer and photocopier and facsimile accessories,44000000,Office Equipment and Accessories and Supplies,0.69,AI
+HAL,Hindustan Aeronautics Ltd,HAL-362874,ALUMINUM BONDED STRUCTURAL ASSEMBLIES,HA596-66,BOX,Obsolete,31331101,Aluminum bonded structural assemblies,31331100,Bonded structural assemblies,31000000,Manufacturing Components and Supplies,0.75,AI
+HAL,Hindustan Aeronautics Ltd,HAL-670027,Simplex and duplex fiber optic cable Assy,HA431-69,PKT,Duplicate,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-268132,locating pins,HA643-29,LTR,Duplicate,31162809,Locating pins,31162800,Miscellaneous hardware,31000000,Manufacturing Components and Supplies,0.68,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-913608,"Enterprise application integration software, Industrial Grade",HA851-33,PKT,Active,43232403,Enterprise application integration software,43232400,Development software,43000000,Information Technology Broadcasting and Telecommunications,0.89,AI
+HAL,Hindustan Aeronautics Ltd,HAL-436272,multi purpose adhesive,HA774-78,MT,Duplicate,31201622,Multi purpose adhesive,31201600,Adhesives,31000000,Manufacturing Components and Supplies,0.84,AI
+HAL,Hindustan Aeronautics Ltd,HAL-742818,Item-Plotter-printers,HA430-62,NOS,Active,43212107,Plotter printers,43212100,Computer printers,43000000,Information Technology Broadcasting and Telecommunications,0.76,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-145903,HELICAL_SPEED_REDUCER,HA282-14,SQM,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-203550,WHEELS,HA684-92,SQM,Duplicate,31162702,Wheels,31162700,Rolling hardware,31000000,Manufacturing Components and Supplies,0.81,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-151470,Tape testers Assy,HA326-87,EA,Active,41113712,Tape testers,41113700,Electronic and communication measuring and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.83,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-590795,WELDED METAL COMPONENTS,HA469-81,MTR,Active,31281701,Welded metal components,31281700,Welded components,31000000,Manufacturing Components and Supplies,0.9,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-963652,Item-Fiber-sensors,HA641-15,LTR,Active,41112103,Fiber sensors,41112100,Transducers,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.97,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-206142,Sremraw Leeh,HA644-59,BOX,Obsolete,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-360846,TORSION_SPRINGS,HA671-81,NOS,Obsolete,31161908,Torsion springs,31161900,Springs,31000000,Manufacturing Components and Supplies,0.79,
+HAL,Hindustan Aeronautics Ltd,HAL-836677,"Torsion springs, Industrial Grade",HA206-31,BOX,Inactive,31161908,Torsion springs,31161900,Springs,31000000,Manufacturing Components and Supplies,0.75,AI
+HAL,Hindustan Aeronautics Ltd,HAL-659835,GD-REVERSE ,HA460-50,SET,Active,41104214,Reverse osmosis equipment parts and accessories,41104200,Laboratory water purification equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.71,
+HAL,Hindustan Aeronautics Ltd,HAL-966286,Brass shim stock Assy,HA723-40,MT,Inactive,31231401,Brass shim stock,31231400,Shim stock,31000000,Manufacturing Components and Supplies,0.88,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-477496,GD-GALVANIZ,HA558-60,EA,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-724702,CAPILLARY OR HEMATOCRIT TUBES,HA630-27,LTR,Active,41121709,Capillary or hematocrit tubes,41121700,Test Tubes,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.65,AI
+HAL,Hindustan Aeronautics Ltd,HAL-325258,Pump column assembly Assy,HA122-98,BOX,Duplicate,40151735,Pump column assembly,40151700,Pump parts and accessories,40000000,Distribution and Conditioning Systems and Equipment and Components,0.78,AI
+HAL,Hindustan Aeronautics Ltd,HAL-198867,CARBON STEEL BONDED PIPE ASSEMBLIES,HA571-55,LTR,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-710434,Slaes Ytiruces Ro Foorp Repmat,HA338-42,NOS,Duplicate,24141504,Tamper proof or security seals,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.7,AI
+HAL,Hindustan Aeronautics Ltd,HAL-869933,hot forged machined tin forging,HA840-51,KG,Inactive,31133409,Hot forged machined tin forging,31133400,Tin forgings,31000000,Manufacturing Components and Supplies,0.91,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-724145,Item-Plastic-bonded-coated-anisotropic-ferrite-magnet,HA138-83,EA,Active,31381429,Plastic bonded coated anisotropic ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.67,
+HAL,Hindustan Aeronautics Ltd,HAL-536754,sludge or sewage composting equipment,HA990-39,PKT,Active,47101524,Sludge or sewage composting equipment,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.82,
+HAL,Hindustan Aeronautics Ltd,HAL-156757,Item-Microscope-slide-racks,HA636-15,PKT,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-442707,Sknat Noitcelloc,HA256-16,MTR,Inactive,47101523,Collection tanks,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.88,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-332873,"Tray dryers, Industrial Grade",HA396-60,SET,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-598969,ELECTROPHORESIS SYSTEM,HA661-61,MTR,Duplicate,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-555596,MANUAL_SWAB_TEST_KITS,HA880-27,MT,Inactive,41112601,Manual swab test kits,41112600,Hygiene monitoring and testing equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.7,AI
+HAL,Hindustan Aeronautics Ltd,HAL-688426,Egnalf Dlewtekcos Epip Citsalp Cvpc,HA348-19,MTR,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-817999,telecommunication tower or support,HA215-95,SET,Active,43222903,Telecommunication tower or support,43222900,Telephony equipment accessories,43000000,Information Technology Broadcasting and Telecommunications,0.6,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-722725,CHROMATOGRAPHY BLOTTING PAPER,HA888-49,SET,Duplicate,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-961493,GD-WATER ME,HA738-28,MT,Active,40141762,Water meter protection tub,40141700,Hardware and fittings,40000000,Distribution and Conditioning Systems and Equipment and Components,0.84,AI
+HAL,Hindustan Aeronautics Ltd,HAL-894541,chromatography tubing,HA215-16,PKT,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-972881,Item-Window-envelopes,HA114-53,NOS,Active,44121504,Window envelopes,44121500,Mailing supplies,44000000,Office Equipment and Accessories and Supplies,0.73,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-447997,Sretnirp Rettolp,HA857-78,BOX,Duplicate,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-886804,Item-Test-bar,HA661-71,KG,Obsolete,41114523,Test bar,41114500,Mechanical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.85,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-494900,STAINLESS STEEL SHELL MOLD MACHINED CASTINGS,HA361-31,MT,Obsolete,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-747983,Item-HDPE-plastic-pipe-wye,HA154-69,EA,Active,40175211,HDPE plastic pipe wye,40175200,Pipe wyes,40000000,Distribution and Conditioning Systems and Equipment and Components,0.69,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-795186,Oil foaming characteristics tester Assy,HA985-23,MTR,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-499194,osmometers,HA423-72,BOX,Active,41113027,Osmometers,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.59,
+HAL,Hindustan Aeronautics Ltd,HAL-687923,FEED HORNS,HA140-41,LTR,Active,41115202,Feed horns,41115200,Radar and sonar systems and components,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.74,AI
+HAL,Hindustan Aeronautics Ltd,HAL-119264,Single core 600 volt class g automotive cable Assy,HA800-55,LTR,Active,26121816,Single core 600 volt class g automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,1.0,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-951331,CAPILLARY OR HEMATOCRIT TUBES,HA740-42,EA,Duplicate,41121709,Capillary or hematocrit tubes,41121700,Test Tubes,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.97,AI
+HAL,Hindustan Aeronautics Ltd,HAL-259077,Internet protocol IP multimedia subsystem hardware Assy,HA502-94,MTR,Duplicate,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-810929,Srotareneg Nortuen,HA527-40,MTR,Active,26142007,Neutron generators,26142000,Irradiation equipment,26000000,Power Generation and Distribution Machinery and Accessories,0.95,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-570988,HASTALLOY_X_SOLVENT_WELDED_STRUCTURAL_ASSEMBLIES,HA311-93,BOX,Obsolete,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-938970,Stnenopmoc Latem Dedlew,HA983-27,BOX,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-550955,MALLEABLE_IRON_PIPE_TEE,HA771-82,SET,Active,40174606,Malleable iron pipe tee,40174600,Pipe tees,40000000,Distribution and Conditioning Systems and Equipment and Components,0.78,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-293079,Plastic bonded off tool isotropic barium ferrite magnet Assy,HA959-28,SET,Inactive,31381435,Plastic bonded off tool isotropic barium ferrite magnet,31381400,Plastic bonded magnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.98,Legacy
+HAL,Hindustan Aeronautics Ltd,HAL-564523,Item-Filter-element,HA255-34,KG,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-899484,Item-Cold-forged-machined-and-heat-treated-non-ferrous-alloy-forging,HA720-82,PKT,Active,31132403,Cold forged machined and heat treated non ferrous alloy forging,31132400,Non ferrous alloy forgings,31000000,Manufacturing Components and Supplies,0.62,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-476712,facsimile handsets,HA804-71,PKT,Inactive,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-846606,Osmometers Assy,HA288-59,KG,Active,41113027,Osmometers,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.6,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-528436,HDPE PLASTIC PIPE WYE,HA376-62,MT,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-169348,URINALYSIS_REAGENTS_OR_SOLUTIONS_OR_STAINS,HA549-88,SET,Inactive,41116137,Urinalysis reagents or solutions or stains,41116100,Manual test kits and quality controls and calibrators and standards,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.94,
+HAL,Hindustan Aeronautics Ltd,HAL-524533,EXTRUDED COPPER MULTIPORT TUBE,HA722-58,MTR,Duplicate,40182504,Extruded copper multiport tube,40182500,Extruded copper tubes,40000000,Distribution and Conditioning Systems and Equipment and Components,0.97,Manual
+HAL,Hindustan Aeronautics Ltd,HAL-645940,chromatography blotting paper,HA562-68,EA,Active,41115727,Chromatography blotting paper,41115700,Chromatographic measuring instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.76,
+HAL,Hindustan Aeronautics Ltd,HAL-870881,WARM FORGED MACHINED STEEL FORGING,HA671-59,EA,Active,31132105,Warm forged machined steel forging,31132100,Steel forgings,31000000,Manufacturing Components and Supplies,0.65,
+HAL,Hindustan Aeronautics Ltd,HAL-419348,Item-Telecommunication-terminal-units,HA572-31,PKT,Active,43222815,Telecommunication terminal units,43222800,Telephony equipment,43000000,Information Technology Broadcasting and Telecommunications,0.84,AI
+HAL,Hindustan Aeronautics Ltd,HAL-586097,GD-URINALYS,HA192-74,PKT,Obsolete,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-672949,ANTENNA_ACCESSORY,HA502-62,EA,Active,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-575718,Srexim Yrotarobal,HA565-21,KG,Obsolete,,,,,,,,
+HAL,Hindustan Aeronautics Ltd,HAL-868881,pressed and sintered anisotropic barium ferrite magnet assembly,HA193-24,SET,Active,31381352,Pressed and sintered anisotropic barium ferrite magnet assembly,31381300,Pressed magnet and magnet assemblies,31000000,Manufacturing Components and Supplies,0.76,
+HAL,Hindustan Aeronautics Ltd,HAL-862182,MULTI_PURPOSE_ADHESIVE,HA487-80,KG,Active,31201622,Multi purpose adhesive,31201600,Adhesives,31000000,Manufacturing Components and Supplies,0.78,AI
+HAL,Hindustan Aeronautics Ltd,HAL-269999,COG_WHEELS,HA283-16,LTR,Obsolete,31171801,Cog wheels,31171800,Industrial wheels,31000000,Manufacturing Components and Supplies,0.88,
+HAL,Hindustan Aeronautics Ltd,HAL-402808,OIL_FOAMING_CHARACTERISTICS_TESTER,HA220-26,EA,Duplicate,41113047,Oil foaming characteristics tester,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.88,Manual
+BEL,Bharat Electronics Ltd,BEL-621800,GD-MOUNTING,BE656-10,SQM,Active,31162301,Mounting profiles,31162300,Mounting hardware,31000000,Manufacturing Components and Supplies,0.61,
+BEL,Bharat Electronics Ltd,BEL-575779,"Single core 600 volt class a automotive cable, Industrial Grade",BE552-20,EA,Active,26121810,Single core 600 volt class a automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.94,Legacy
+BEL,Bharat Electronics Ltd,BEL-749871,Selbac Munimula Lacirtcele Non,BE150-33,SET,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-252436,POROUS BLOCKS,BE783-83,LTR,Active,31371301,Porous blocks,31371300,Shaped refractories,31000000,Manufacturing Components and Supplies,0.96,Manual
+BEL,Bharat Electronics Ltd,BEL-214176,"Flowmeters, Industrial Grade",BE282-30,PKT,Obsolete,41112501,Flowmeters,41112500,Liquid and gas flow measuring and observing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.85,AI
+BEL,Bharat Electronics Ltd,BEL-577456,Steel high precision machining Assy,BE136-21,SET,Active,31391703,Steel high precision machining,31391700,High precision machinings,31000000,Manufacturing Components and Supplies,0.95,Manual
+BEL,Bharat Electronics Ltd,BEL-895284,"Extruded copper multiport tube, Industrial Grade",BE963-80,SQM,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-227950,Item-Copper-riveted-structural-assemblies,BE437-77,MT,Obsolete,31331712,Copper riveted structural assemblies,31331700,Riveted structural assemblies,31000000,Manufacturing Components and Supplies,0.6,Manual
+BEL,Bharat Electronics Ltd,BEL-214611,carded packaging,BE595-98,LTR,Inactive,24121504,Carded packaging,24121500,Packaging boxes and bags and pouches,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.8,Legacy
+BEL,Bharat Electronics Ltd,BEL-372273,Epoxy conformal coating Assy,BE232-88,BOX,Obsolete,31201710,Epoxy conformal coating,31201700,Sealants,31000000,Manufacturing Components and Supplies,0.82,
+BEL,Bharat Electronics Ltd,BEL-947228,GENERAL_PURPOSE_CLEANERS,BE724-39,MT,Active,47131805,General purpose cleaners,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.56,
+BEL,Bharat Electronics Ltd,BEL-755843,magnesium impact extrusions,BE855-36,MTR,Inactive,31111608,Magnesium impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.52,Legacy
+BEL,Bharat Electronics Ltd,BEL-687638,Seilbmessa Larutcurts Dednob Munimula,BE111-91,LTR,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-928580,rubber tape,BE415-48,SET,Active,31201534,Rubber tape,31201500,Tape,31000000,Manufacturing Components and Supplies,0.56,Legacy
+BEL,Bharat Electronics Ltd,BEL-457943,"PVC plastic pipe coupling, Industrial Grade",BE841-82,EA,Active,40172608,PVC plastic pipe coupling,40172600,Pipe couplings,40000000,Distribution and Conditioning Systems and Equipment and Components,0.6,Legacy
+BEL,Bharat Electronics Ltd,BEL-805139,GD-STIRRING,BE585-14,SQM,Active,41102423,Stirring hotplates,41102400,Laboratory heating and drying equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.81,Legacy
+BEL,Bharat Electronics Ltd,BEL-584935,"Embedding molds, Industrial Grade",BE860-17,LTR,Duplicate,41102902,Embedding molds,41102900,Histology equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.86,Legacy
+BEL,Bharat Electronics Ltd,BEL-682145,COMPUTER CRADLES,BE313-83,SET,Active,43201611,Computer cradles,43201600,Chassis components,43000000,Information Technology Broadcasting and Telecommunications,0.98,Legacy
+BEL,Bharat Electronics Ltd,BEL-981578,PVC PLASTIC PIPE COUPLING,BE447-58,KG,Duplicate,40172608,PVC plastic pipe coupling,40172600,Pipe couplings,40000000,Distribution and Conditioning Systems and Equipment and Components,0.8,AI
+BEL,Bharat Electronics Ltd,BEL-724103,darkfield microscopes,BE985-49,SET,Obsolete,41111719,Darkfield microscopes,41111700,Viewing and observing instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.52,
+BEL,Bharat Electronics Ltd,BEL-191014,GD-WINCHES,BE998-40,LTR,Active,24101608,Winches,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.76,AI
+BEL,Bharat Electronics Ltd,BEL-217683,Electrophoresis system Assy,BE903-14,NOS,Inactive,41105340,Electrophoresis system,41105300,Laboratory electrophoresis and blotting system and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.75,
+BEL,Bharat Electronics Ltd,BEL-624344,THERMOPLASTIC_GAS_ASSISTED_INJECTION_MOLDING_ASSEMBLY,BE294-53,BOX,Active,31142005,Thermoplastic gas assisted injection molding assembly,31142000,Thermoplastic molding assemblies,31000000,Manufacturing Components and Supplies,0.89,AI
+BEL,Bharat Electronics Ltd,BEL-906859,conveyor belt brushes,BE941-76,KG,Active,24101719,Conveyor belt brushes,24101700,Conveyors and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.86,
+BEL,Bharat Electronics Ltd,BEL-506415,multi purpose adhesive,BE104-49,PKT,Active,31201622,Multi purpose adhesive,31201600,Adhesives,31000000,Manufacturing Components and Supplies,0.67,Manual
+BEL,Bharat Electronics Ltd,BEL-208111,Item-Stainless-steel-high-temperature-sintered-filter,BE123-83,MT,Active,31421505,Stainless steel high temperature sintered filter,31421500,Sintered filters,31000000,Manufacturing Components and Supplies,0.6,Legacy
+BEL,Bharat Electronics Ltd,BEL-390088,Multi purpose adhesive Assy,BE891-66,LTR,Active,31201622,Multi purpose adhesive,31201600,Adhesives,31000000,Manufacturing Components and Supplies,0.58,Manual
+BEL,Bharat Electronics Ltd,BEL-115997,telecommunication tower or support,BE311-79,SET,Active,43222903,Telecommunication tower or support,43222900,Telephony equipment accessories,43000000,Information Technology Broadcasting and Telecommunications,0.57,Legacy
+BEL,Bharat Electronics Ltd,BEL-701969,Evisehda Esoprup Itlum,BE275-19,SET,Duplicate,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-565198,AUTOMOTIVE HVAC ACTUATOR,BE233-13,EA,Active,31251512,Automotive HVAC actuator,31251500,Actuators,31000000,Manufacturing Components and Supplies,0.69,Manual
+BEL,Bharat Electronics Ltd,BEL-547181,"Impedance meters, Industrial Grade",BE283-86,SQM,Duplicate,41113621,Impedance meters,41113600,Electrical measuring and testing equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.68,Legacy
+BEL,Bharat Electronics Ltd,BEL-957150,Retnec Ecivres Aidemitlum,BE830-95,NOS,Inactive,43223203,Multimedia service center,43223200,Mobile messaging platforms,43000000,Information Technology Broadcasting and Telecommunications,0.78,Manual
+BEL,Bharat Electronics Ltd,BEL-952336,GD-MOTOR DR,BE199-68,SQM,Inactive,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-342948,Aidem Retlif Lacigoloib,BE247-88,SET,Inactive,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-292259,Castisotropic strontium ferrite magnet assembly Assy,BE907-51,EA,Active,31381147,Castisotropic strontium ferrite magnet assembly,31381100,Castmagnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.74,Legacy
+BEL,Bharat Electronics Ltd,BEL-601903,GD-FILTER E,BE966-31,SET,Duplicate,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-702593,WINDOW_ENVELOPES,BE620-23,NOS,Active,44121504,Window envelopes,44121500,Mailing supplies,44000000,Office Equipment and Accessories and Supplies,0.78,Manual
+BEL,Bharat Electronics Ltd,BEL-930924,Item-Platform-interconnectivity-software,BE645-69,MTR,Active,43232915,Platform interconnectivity software,43232900,Networking software,43000000,Information Technology Broadcasting and Telecommunications,0.81,AI
+BEL,Bharat Electronics Ltd,BEL-605806,"Computer cable holder, Industrial Grade",BE167-53,PKT,Inactive,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-922412,"Kaptan wire, Industrial Grade",BE680-53,MT,Active,26121533,Kaptan wire,26121500,Electrical wire,26000000,Power Generation and Distribution Machinery and Accessories,0.83,Manual
+BEL,Bharat Electronics Ltd,BEL-875282,GD-COMPUTER,BE217-85,SET,Duplicate,43211613,Computer or notebook stands,43211600,Computer accessories,43000000,Information Technology Broadcasting and Telecommunications,0.55,
+BEL,Bharat Electronics Ltd,BEL-284731,Item-Tamper-proof-or-security-seals,BE515-18,PKT,Inactive,24141504,Tamper proof or security seals,24141500,Securing and protecting supplies,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.66,Manual
+BEL,Bharat Electronics Ltd,BEL-194930,Snoisurtxe Toh Denihcam Rebbur,BE936-27,EA,Active,31291412,Rubber machined hot extrusions,31291400,Machined hot extrusions,31000000,Manufacturing Components and Supplies,0.83,
+BEL,Bharat Electronics Ltd,BEL-657062,Item-Capsule-tubes-or-caps,BE499-88,MT,Active,24141709,Capsule tubes or caps,24141700,Packaging tubes and cores and labels and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.84,Legacy
+BEL,Bharat Electronics Ltd,BEL-414295,Item-Conveyor-liner,BE545-54,PKT,Active,24101726,Conveyor liner,24101700,Conveyors and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.81,
+BEL,Bharat Electronics Ltd,BEL-988811,S_HOOKS,BE972-47,BOX,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-100884,Tape testers Assy,BE212-46,MT,Inactive,41113712,Tape testers,41113700,Electronic and communication measuring and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.85,
+BEL,Bharat Electronics Ltd,BEL-755584,Managed lease line network MLLN equipment Assy,BE828-58,MTR,Duplicate,43222638,Managed lease line network MLLN equipment,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.61,AI
+BEL,Bharat Electronics Ltd,BEL-597938,STAMP_CANCELING_MACHINES,BE292-81,SET,Inactive,44102104,Stamp canceling machines,44102100,Mail machines,44000000,Office Equipment and Accessories and Supplies,0.58,AI
+BEL,Bharat Electronics Ltd,BEL-240800,FUNCTIONAL TESTER,BE173-92,SQM,Obsolete,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-557949,NETWORK_EQUIPMENT_UPGRADE_KIT,BE186-27,MTR,Inactive,43222635,Network equipment upgrade kit,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.95,
+BEL,Bharat Electronics Ltd,BEL-753523,ENGINE_VALVES,BE565-75,SQM,Inactive,26101743,Engine valves,26101700,Engine components and accessories,26000000,Power Generation and Distribution Machinery and Accessories,0.68,AI
+BEL,Bharat Electronics Ltd,BEL-545405,BRASS BOLTED BAR STOCK ASSEMBLIES,BE691-73,MT,Obsolete,31321713,Brass bolted bar stock assemblies,31321700,Bolted bar stock assemblies,31000000,Manufacturing Components and Supplies,0.75,
+BEL,Bharat Electronics Ltd,BEL-672696,Computer cable holder Assy,BE134-14,SET,Active,43202217,Computer cable holder,43202200,Sub assemblies for electronic devices,43000000,Information Technology Broadcasting and Telecommunications,0.79,Manual
+BEL,Bharat Electronics Ltd,BEL-248989,Item-Inconel-bolted-tube-assemblies,BE576-76,PKT,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-357143,GD-ULTRACEN,BE745-94,NOS,Obsolete,41103907,Ultracentrifuges,41103900,Laboratory centrifuges and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.82,Legacy
+BEL,Bharat Electronics Ltd,BEL-742818,CASTISOTROPIC STRONTIUM FERRITE MAGNET ASSEMBLY,BE451-78,SQM,Inactive,31381147,Castisotropic strontium ferrite magnet assembly,31381100,Castmagnets and magnet assemblies,31000000,Manufacturing Components and Supplies,0.76,
+BEL,Bharat Electronics Ltd,BEL-701846,Quick action clamp Assy,BE531-55,LTR,Active,31162916,Quick action clamp,31162900,Clamps,31000000,Manufacturing Components and Supplies,0.58,Legacy
+BEL,Bharat Electronics Ltd,BEL-862285,Item-Ion-chromatography-IC-guard-column,BE162-90,KG,Duplicate,41115729,Ion chromatography IC guard column,41115700,Chromatographic measuring instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.53,Legacy
+BEL,Bharat Electronics Ltd,BEL-948188,S HOOKS,BE393-72,BOX,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-992805,Item-Pre-ignition-knock-sensor,BE358-26,LTR,Active,41111923,Pre ignition knock sensor,41111900,Indicating and recording instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,Manual
+BEL,Bharat Electronics Ltd,BEL-733152,SPRAY_KIT,BE705-29,SET,Active,24112208,Spray kit,24112200,Cans and pails,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.63,AI
+BEL,Bharat Electronics Ltd,BEL-608473,SPEEDOMETERS,BE918-77,SET,Active,41112801,Speedometers,41112800,Transportation related equipment and instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.98,AI
+BEL,Bharat Electronics Ltd,BEL-978302,GD-S TRAP,BE870-62,MT,Obsolete,40142515,S trap,40142500,Traps and strainers,40000000,Distribution and Conditioning Systems and Equipment and Components,0.72,AI
+BEL,Bharat Electronics Ltd,BEL-321099,Radioactive waste solidification systems Assy,BE155-92,NOS,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-275741,GD-COLD FOR,BE508-70,BOX,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-498249,"Internet protocol IP multimedia subsystem hardware, Industrial Grade",BE585-43,MTR,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-402820,GD-WATER SE,BE491-96,BOX,Obsolete,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-143010,rubber tape,BE644-91,MTR,Duplicate,31201534,Rubber tape,31201500,Tape,31000000,Manufacturing Components and Supplies,0.96,Legacy
+BEL,Bharat Electronics Ltd,BEL-451238,Item-Tray-dryers,BE373-22,PKT,Inactive,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-583507,Tik Yarps,BE851-96,MT,Duplicate,24112208,Spray kit,24112200,Cans and pails,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.67,AI
+BEL,Bharat Electronics Ltd,BEL-428487,INCONEL BOLTED STRUCTURAL ASSEMBLIES,BE788-11,EA,Inactive,31331204,Inconel bolted structural assemblies,31331200,Bolted structural assemblies,31000000,Manufacturing Components and Supplies,0.55,Manual
+BEL,Bharat Electronics Ltd,BEL-818798,GD-COMPUTER,BE459-38,LTR,Active,43201611,Computer cradles,43201600,Chassis components,43000000,Information Technology Broadcasting and Telecommunications,0.52,Manual
+BEL,Bharat Electronics Ltd,BEL-159645,Erawtfos Gnirotinom Krowten,BE713-91,NOS,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-998043,COPPER_PIPE_CROSS,BE484-94,PKT,Active,40172712,Copper pipe cross,40172700,Pipe crosses,40000000,Distribution and Conditioning Systems and Equipment and Components,0.95,AI
+BEL,Bharat Electronics Ltd,BEL-365641,Item-Malleable-iron-pipe-tee,BE578-94,SQM,Active,40174606,Malleable iron pipe tee,40174600,Pipe tees,40000000,Distribution and Conditioning Systems and Equipment and Components,0.88,Legacy
+BEL,Bharat Electronics Ltd,BEL-369836,PUMP_SHAFT,BE899-19,EA,Inactive,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-507466,Test bar Assy,BE161-43,LTR,Active,41114523,Test bar,41114500,Mechanical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.72,
+BEL,Bharat Electronics Ltd,BEL-310416,"Collection tanks, Industrial Grade",BE282-92,KG,Duplicate,47101523,Collection tanks,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.88,AI
+BEL,Bharat Electronics Ltd,BEL-743790,carbon steel pipe toilet flange,BE552-43,NOS,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-699098,Item-Mounting-strips,BE895-67,SQM,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-784578,PAPER CLAWS,BE138-95,KG,Obsolete,44122026,Paper claws,44122000,Folders and binders and indexes,44000000,Office Equipment and Accessories and Supplies,0.66,
+BEL,Bharat Electronics Ltd,BEL-702553,MICROBIOLOGY OR BACTERIOLOGY QUALITY CONTROLS OR CALIBRATORS OR STANDARDS,BE627-72,MTR,Obsolete,41116132,Microbiology or bacteriology quality controls or calibrators or standards,41116100,Manual test kits and quality controls and calibrators and standards,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,Manual
+BEL,Bharat Electronics Ltd,BEL-666366,Seilbmessa Larutcurts Detevir Ssarb,BE103-59,SQM,Active,31331713,Brass riveted structural assemblies,31331700,Riveted structural assemblies,31000000,Manufacturing Components and Supplies,0.78,Legacy
+BEL,Bharat Electronics Ltd,BEL-449636,Item-Tin-plaster-mold-machined-castings,BE510-17,NOS,Active,31121414,Tin plaster mold machined castings,31121400,Machined plaster mold castings,31000000,Manufacturing Components and Supplies,0.77,Legacy
+BEL,Bharat Electronics Ltd,BEL-184365,GD-ALCOHOLO,BE878-47,KG,Duplicate,41113038,Alcoholometer,41113000,Chemical evaluation instruments and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.52,
+BEL,Bharat Electronics Ltd,BEL-792829,Seilbmessa Ebut Dezarb Ro Dedlew Leets Sselniats,BE406-99,NOS,Obsolete,31351209,Stainless steel welded or brazed tube assemblies,31351200,Welded or brazed tube assemblies,31000000,Manufacturing Components and Supplies,0.84,
+BEL,Bharat Electronics Ltd,BEL-188984,GD-CELL MET,BE852-34,MT,Active,,,,,,,,
+BEL,Bharat Electronics Ltd,BEL-854701,Sleehw Rellepmi,BE600-59,BOX,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-623956,GD-NICKEL A,CO116-14,SET,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-144894,"Tire depth gauge, Industrial Grade",CO221-37,BOX,Inactive,41111649,Tire depth gauge,41111600,Length and thickness and distance measuring instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.97,AI
+CONCOR,Container Corporation of India,CCR-877048,Sdlom Gniddebme,CO173-14,SQM,Obsolete,41102902,Embedding molds,41102900,Histology equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.51,Manual
+CONCOR,Container Corporation of India,CCR-354471,SMALL_PAPER_BAGS_OF_WET_ABSORBING_SALTS,CO114-32,LTR,Active,44102905,Small paper bags of wet absorbing salts,44102900,Office machine accessories,44000000,Office Equipment and Accessories and Supplies,0.73,AI
+CONCOR,Container Corporation of India,CCR-975930,warm forged heat treated and cold sized lead forging,CO937-23,PKT,Duplicate,,,,,,,,
+CONCOR,Container Corporation of India,CCR-331287,warm forged machined bronze forging,CO923-35,MTR,Active,31133305,Warm forged machined bronze forging,31133300,Bronze forgings,31000000,Manufacturing Components and Supplies,0.56,AI
+CONCOR,Container Corporation of India,CCR-437211,Aidem Retlif Lacigoloib,CO882-15,SET,Active,40161808,Biological filter media,40161800,Filter media,40000000,Distribution and Conditioning Systems and Equipment and Components,0.56,AI
+CONCOR,Container Corporation of India,CCR-894348,"Epoxy conformal coating, Industrial Grade",CO272-99,KG,Inactive,31201710,Epoxy conformal coating,31201700,Sealants,31000000,Manufacturing Components and Supplies,0.62,Manual
+CONCOR,Container Corporation of India,CCR-239849,lead impact extrusions,CO910-90,KG,Active,31111607,Lead impact extrusions,31111600,Impact extrusions,31000000,Manufacturing Components and Supplies,0.94,Manual
+CONCOR,Container Corporation of India,CCR-106658,PAPER CLAWS,CO283-21,PKT,Active,44122026,Paper claws,44122000,Folders and binders and indexes,44000000,Office Equipment and Accessories and Supplies,0.71,
+CONCOR,Container Corporation of India,CCR-825990,SPEEDOMETERS,CO311-28,BOX,Inactive,41112801,Speedometers,41112800,Transportation related equipment and instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.71,AI
+CONCOR,Container Corporation of India,CCR-740195,TAPE TESTERS,CO710-33,PKT,Active,41113712,Tape testers,41113700,Electronic and communication measuring and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.81,Legacy
+CONCOR,Container Corporation of India,CCR-464750,"Diagnostic beverages for laboratory testing, Industrial Grade",CO104-81,NOS,Duplicate,,,,,,,,
+CONCOR,Container Corporation of India,CCR-200331,Impedance meters Assy,CO983-79,SQM,Obsolete,41113621,Impedance meters,41113600,Electrical measuring and testing equipment and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.83,Legacy
+CONCOR,Container Corporation of India,CCR-155646,Senihcam Gnilecnac Pmats,CO215-29,SQM,Inactive,44102104,Stamp canceling machines,44102100,Mail machines,44000000,Office Equipment and Accessories and Supplies,0.59,Manual
+CONCOR,Container Corporation of India,CCR-156652,Rotary coupling Assy,CO391-36,SET,Duplicate,31163014,Rotary coupling,31163000,Couplings,31000000,Manufacturing Components and Supplies,0.9,
+CONCOR,Container Corporation of India,CCR-145421,serological pipettes,CO858-16,KG,Active,41121511,Serological pipettes,41121500,Pipettes and liquid handling equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,
+CONCOR,Container Corporation of India,CCR-639915,collection tanks,CO172-40,PKT,Duplicate,47101523,Collection tanks,47101500,Water treatment and supply equipment,47000000,Cleaning Equipment and Supplies,0.66,AI
+CONCOR,Container Corporation of India,CCR-883377,Sisal rope Assy,CO335-24,NOS,Active,,,,,,,,
+CONCOR,Container Corporation of India,CCR-873584,"Ventilation spad, Industrial Grade",CO990-35,MT,Active,40101509,Ventilation spad,40101500,Ventilation,40000000,Distribution and Conditioning Systems and Equipment and Components,0.74,
+CONCOR,Container Corporation of India,CCR-156978,"Network repeaters, Industrial Grade",CO248-37,SQM,Active,43222608,Network repeaters,43222600,Network service equipment,43000000,Information Technology Broadcasting and Telecommunications,0.69,AI
+CONCOR,Container Corporation of India,CCR-579975,Redloh Elbac Retupmoc,CO747-55,MT,Active,43202217,Computer cable holder,43202200,Sub assemblies for electronic devices,43000000,Information Technology Broadcasting and Telecommunications,0.56,Manual
+CONCOR,Container Corporation of India,CCR-394234,HOT_FORGED_MACHINED_ZINC_FORGING,CO213-69,KG,Active,31133209,Hot forged machined zinc forging,31133200,Zinc forgings,31000000,Manufacturing Components and Supplies,0.61,Legacy
+CONCOR,Container Corporation of India,CCR-732958,TIN_PROFILE_EXTRUSIONS,CO908-91,KG,Duplicate,31111515,Tin profile extrusions,31111500,Profile extrusions,31000000,Manufacturing Components and Supplies,0.99,AI
+CONCOR,Container Corporation of India,CCR-190674,"Copper riveted sheet assemblies, Industrial Grade",CO977-76,MT,Duplicate,31341212,Copper riveted sheet assemblies,31341200,Riveted sheet assemblies,31000000,Manufacturing Components and Supplies,0.74,
+CONCOR,Container Corporation of India,CCR-392731,RUBBER MACHINED IMPACT EXTRUSIONS,CO847-64,MT,Active,31291212,Rubber machined impact extrusions,31291200,Machined impact extrusions,31000000,Manufacturing Components and Supplies,0.66,AI
+CONCOR,Container Corporation of India,CCR-720517,DEHYDRATORS,CO687-10,EA,Active,41104208,Dehydrators,41104200,Laboratory water purification equipment and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,1.0,Manual
+CONCOR,Container Corporation of India,CCR-546376,"Hot forged machined tin forging, Industrial Grade",CO590-99,SQM,Inactive,31133409,Hot forged machined tin forging,31133400,Tin forgings,31000000,Manufacturing Components and Supplies,0.62,Manual
+CONCOR,Container Corporation of India,CCR-826830,"Chromatography blotting paper, Industrial Grade",CO323-26,MT,Obsolete,41115727,Chromatography blotting paper,41115700,Chromatographic measuring instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,1.0,Manual
+CONCOR,Container Corporation of India,CCR-603088,Item-S-trap,CO265-68,PKT,Active,40142515,S trap,40142500,Traps and strainers,40000000,Distribution and Conditioning Systems and Equipment and Components,0.99,
+CONCOR,Container Corporation of India,CCR-909327,DIGITAL_SUBSCRIBER_LOOP_DSL_CAPTIVE_OFFICE_SPLITTER_SHELF,CO995-61,SET,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-586849,BRUSHLESS COOLANT PUMP,CO981-90,SET,Duplicate,,,,,,,,
+CONCOR,Container Corporation of India,CCR-134303,Item-Hydraulic-bulge-tester,CO536-44,PKT,Duplicate,41114517,Hydraulic bulge tester,41114500,Mechanical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.79,AI
+CONCOR,Container Corporation of India,CCR-925954,motor drive software,CO735-52,EA,Duplicate,43233601,Motor Drive Software,43233600,Electrical Equipment software,43000000,Information Technology Broadcasting and Telecommunications,0.97,Legacy
+CONCOR,Container Corporation of India,CCR-154067,brushless coolant pump,CO492-56,EA,Active,40151575,Brushless coolant pump,40151500,Pumps,40000000,Distribution and Conditioning Systems and Equipment and Components,0.68,Manual
+CONCOR,Container Corporation of India,CCR-687997,Epor Lasis,CO241-52,NOS,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-601736,Reyal Epip,CO871-38,LTR,Duplicate,,,,,,,,
+CONCOR,Container Corporation of India,CCR-813269,"Microscope objectives, Industrial Grade",CO383-16,SET,Inactive,,,,,,,,
+CONCOR,Container Corporation of India,CCR-609845,urinalysis reagents or solutions or stains,CO581-78,BOX,Active,41116137,Urinalysis reagents or solutions or stains,41116100,Manual test kits and quality controls and calibrators and standards,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.73,Legacy
+CONCOR,Container Corporation of India,CCR-938759,cassette or tape shredders,CO292-68,MTR,Active,,,,,,,,
+CONCOR,Container Corporation of India,CCR-402380,dry wall single chamber three gas incubators,CO211-31,KG,Inactive,,,,,,,,
+CONCOR,Container Corporation of India,CCR-257808,Egnalf Nopils Epip Nori Tsac,CO633-90,MTR,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-667735,HAZE_METER,CO585-54,EA,Active,41115330,Haze meter,41115300,Light and wave generating and measuring equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.59,Manual
+CONCOR,Container Corporation of India,CCR-940946,Stnemurtsni Lacisyhpoeg Retemotengam,CO954-76,MTR,Duplicate,41113806,Magnetometer geophysical instruments,41113800,Geophysical and geotechnical instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.67,Legacy
+CONCOR,Container Corporation of India,CCR-609763,GD-LIQUID N,CO568-48,LTR,Active,41103028,Liquid nitrogen measuring stick,41103000,Laboratory cooling equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.89,AI
+CONCOR,Container Corporation of India,CCR-607765,Welded steel tube assembly Assy,CO395-16,LTR,Inactive,,,,,,,,
+CONCOR,Container Corporation of India,CCR-274444,STIRRING_HOTPLATES,CO828-78,KG,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-826515,NETWORK_MONITORING_SOFTWARE,CO265-40,SET,Duplicate,,,,,,,,
+CONCOR,Container Corporation of India,CCR-232617,GD-MICROSCO,CO366-57,BOX,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-136374,Microscope objectives Assy,CO452-28,BOX,Active,41111705,Microscope objectives,41111700,Viewing and observing instruments and accessories,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.77,Manual
+CONCOR,Container Corporation of India,CCR-126135,"Carded packaging, Industrial Grade",CO611-28,SET,Active,24121504,Carded packaging,24121500,Packaging boxes and bags and pouches,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.5,Legacy
+CONCOR,Container Corporation of India,CCR-778684,Item-Rubber-machined-hot-extrusions,CO585-47,PKT,Obsolete,31291412,Rubber machined hot extrusions,31291400,Machined hot extrusions,31000000,Manufacturing Components and Supplies,0.57,
+CONCOR,Container Corporation of India,CCR-455136,pre ignition knock sensor,CO849-71,KG,Obsolete,41111923,Pre ignition knock sensor,41111900,Indicating and recording instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.78,Legacy
+CONCOR,Container Corporation of India,CCR-126000,"Winches, Industrial Grade",CO732-38,NOS,Active,24101608,Winches,24101600,Lifting equipment and accessories,24000000,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies,0.53,AI
+CONCOR,Container Corporation of India,CCR-711772,Srotabucni Sag Eerht Rebmahc Elgnis Llaw Yrd,CO900-45,NOS,Duplicate,,,,,,,,
+CONCOR,Container Corporation of India,CCR-990714,GD-MOTOR DR,CO793-95,BOX,Inactive,43233601,Motor Drive Software,43233600,Electrical Equipment software,43000000,Information Technology Broadcasting and Telecommunications,0.6,Legacy
+CONCOR,Container Corporation of India,CCR-732471,POROUS BLOCKS,CO782-56,MTR,Active,31371301,Porous blocks,31371300,Shaped refractories,31000000,Manufacturing Components and Supplies,0.69,Manual
+CONCOR,Container Corporation of India,CCR-398477,Multi purpose adhesive Assy,CO459-49,BOX,Active,31201622,Multi purpose adhesive,31201600,Adhesives,31000000,Manufacturing Components and Supplies,0.61,
+CONCOR,Container Corporation of India,CCR-877548,"ABS plastic pipe reducing flange, Industrial Grade",CO922-66,MTR,Obsolete,,,,,,,,
+CONCOR,Container Corporation of India,CCR-534313,KAPTAN_WIRE,CO955-85,KG,Active,26121533,Kaptan wire,26121500,Electrical wire,26000000,Power Generation and Distribution Machinery and Accessories,0.65,Legacy
+CONCOR,Container Corporation of India,CCR-169327,"General purpose cleaners, Industrial Grade",CO190-10,LTR,Inactive,47131805,General purpose cleaners,47131800,Cleaning and disinfecting solutions,47000000,Cleaning Equipment and Supplies,0.59,
+CONCOR,Container Corporation of India,CCR-844747,ABS_PLASTIC_PIPE_REDUCING_FLANGE,CO304-33,LTR,Duplicate,40173709,ABS plastic pipe reducing flange,40173700,Pipe reducing flanges,40000000,Distribution and Conditioning Systems and Equipment and Components,0.75,Legacy
+CONCOR,Container Corporation of India,CCR-975126,Item-Paper-claws,CO605-81,MT,Active,44122026,Paper claws,44122000,Folders and binders and indexes,44000000,Office Equipment and Accessories and Supplies,0.9,AI
+CONCOR,Container Corporation of India,CCR-375436,Item-Titanium-ceramic-mold-machined-castings,CO755-91,LTR,Inactive,31121808,Titanium ceramic mold machined castings,31121800,Machined ceramic mold castings,31000000,Manufacturing Components and Supplies,0.59,AI
+CONCOR,Container Corporation of India,CCR-129824,kaptan wire,CO883-45,NOS,Duplicate,26121533,Kaptan wire,26121500,Electrical wire,26000000,Power Generation and Distribution Machinery and Accessories,0.87,
+CONCOR,Container Corporation of India,CCR-693047,"Blood bank analyzers, Industrial Grade",CO989-43,SQM,Obsolete,41115803,Blood bank analyzers,41115800,Clinical and diagnostic analyzers and accessories and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.91,Legacy
+CONCOR,Container Corporation of India,CCR-637422,LABORATORY REACTOR,CO965-43,EA,Active,,,,,,,,
+CONCOR,Container Corporation of India,CCR-435209,GD-MAGNESIU,CO999-98,KG,Active,,,,,,,,
+CONCOR,Container Corporation of India,CCR-385915,Cell metabolism analyzer Assy,CO529-91,SET,Active,41115845,Cell metabolism analyzer,41115800,Clinical and diagnostic analyzers and accessories and supplies,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.64,Manual
+CONCOR,Container Corporation of India,CCR-638828,Gnigrof Nit Denihcam Degrof Toh,CO884-90,NOS,Duplicate,,,,,,,,
+CONCOR,Container Corporation of India,CCR-889188,NON_METALLIC_PUNCHED_COMPONENTS,CO656-51,LTR,Active,31281809,Non metallic punched components,31281800,Punched components,31000000,Manufacturing Components and Supplies,0.84,Legacy
+CONCOR,Container Corporation of India,CCR-200488,Spray kit Assy,CO943-28,BOX,Active,,,,,,,,
+CONCOR,Container Corporation of India,CCR-491133,GD-SINGLE C,CO521-53,KG,Active,26121810,Single core 600 volt class a automotive cable,26121800,Automotive cable,26000000,Power Generation and Distribution Machinery and Accessories,0.61,AI
+CONCOR,Container Corporation of India,CCR-971968,Srotcev Andc Dica Cielcunobiryxoed Yratnemelpmoc Noisserpxe,CO914-81,BOX,Duplicate,41106606,Expression complementary deoxyribonucleic acid cDNA vectors,41106600,Vectors,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.86,Manual
+CONCOR,Container Corporation of India,CCR-537619,GD-STAINLES,CO178-24,EA,Inactive,31421505,Stainless steel high temperature sintered filter,31421500,Sintered filters,31000000,Manufacturing Components and Supplies,0.67,Legacy
+CONCOR,Container Corporation of India,CCR-245766,GD-WARM FOR,CO711-76,SET,Active,31132105,Warm forged machined steel forging,31132100,Steel forgings,31000000,Manufacturing Components and Supplies,0.85,Manual
+CONCOR,Container Corporation of India,CCR-880623,fiber sensors,CO327-26,KG,Obsolete,41112103,Fiber sensors,41112100,Transducers,41000000,Laboratory and Measuring and Observing and Testing Equipment,0.61,AI
+CONCOR,Container Corporation of India,CCR-320034,POROUS_BLOCKS,CO180-64,NOS,Active,31371301,Porous blocks,31371300,Shaped refractories,31000000,Manufacturing Components and Supplies,0.51,
+CONCOR,Container Corporation of India,CCR-894122,"ABS plastic pipe reducing flange, Industrial Grade",CO143-35,BOX,Duplicate,,,,,,,,
