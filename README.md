@@ -1,39 +1,39 @@
 # NUMM — National Unified Material Master Platform
 ### AI-Driven Harmonization & Deduplication for Central Public Sector Enterprises (CPSEs)
-**Government of India | "One Nation – One Material Code" Initiative**
+Government of India | "One Nation – One Material Code" Initiative
 
 ---
 
 ## 🏛️ Executive Overview
 
-The **National Unified Material Master (NUMM)** platform establishes an authoritative, unified material coding registry for India's Central Public Sector Enterprises (CPSEs). By leveraging deep learning semantic embeddings and zero-shot UNSPSC taxonomy classification, NUMM detects cross-enterprise duplicate inventory, standardizes item specifications, and generates globally unique **National Material Codes (NMCs)** formatted as `NMC-{UNSPSC_CLASS}-{SEQUENCE_NUMBER}`.
+The National Unified Material Master (NUMM)** platform establishes an authoritative, unified material coding registry for India's Central Public Sector Enterprises (CPSEs). By leveraging deep learning semantic embeddings and zero-shot UNSPSC taxonomy classification, NUMM detects cross-enterprise duplicate inventory, standardizes item specifications, and generates globally unique **National Material Codes (NMCs) formatted as `NMC-{UNSPSC_CLASS}-{SEQUENCE_NUMBER}`.
 
 ### Target CPSEs
-* **ONGC** (Oil and Natural Gas Corporation)
-* **BHEL** (Bharat Heavy Electricals Limited)
-* **SAIL** (Steel Authority of India)
-* **GAIL** (Gas Authority of India)
-* **IOCL** (Indian Oil Corporation)
-* **NTPC** (National Thermal Power Corporation)
-* **NMDC** (National Mineral Development Corporation)
-* **HAL** (Hindustan Aeronautics Limited)
-* **BEL** (Bharat Electronics Limited)
-* **CONCOR** (Container Corporation of India)
+* ONGC (Oil and Natural Gas Corporation)
+* BHEL (Bharat Heavy Electricals Limited)
+* SAIL (Steel Authority of India)
+* GAIL (Gas Authority of India)
+* IOCL (Indian Oil Corporation)
+* NTPC (National Thermal Power Corporation)
+* NMDC (National Mineral Development Corporation)
+* HAL (Hindustan Aeronautics Limited)
+* BEL (Bharat Electronics Limited)
+* CONCOR (Container Corporation of India)
 
 ---
 
-## 🚀 Key Modules
+## Key Modules
 
-1. **Auth & Multi-Tenancy Roles**: Role-based access control (`SUPER_ADMIN`, `CPSE_ANALYST`, `REVIEWER`) with JWT auth and CPSE isolation.
-2. **Executive Command Dashboard**: Real-time KPI stat cards, CPSE catalog distribution donut chart, 30-day deduplication velocity chart, and live Socket.IO activity feed.
-3. **Material Master Catalog Upload**: Drag-and-drop CSV uploader with client-side header validation, 10-row preview, and dynamic schema column mapper.
-4. **AI Matching Engine (FastAPI)**: Python microservice powered by `sentence-transformers` (`all-MiniLM-L6-v2`) and `scikit-learn` cosine similarity with automatic fallback.
-5. **Cross-CPSE Duplicate Detection**: Interactive similarity threshold slider (0–100%), side-by-side specification diffs, and bulk approval/rejection workflows.
-6. **Material Harmonization Workbench**: Split-screen workflow with instant AI standardizations, single-key shortcuts (`A` = Approve, `R` = Reject, `E` = Edit, `N` = Next), and persistent local state.
-7. **National Material Code Registry**: Searchable repository of authoritative NMCs with drilldown into linked enterprise codes and CSV export.
-8. **Harmonization Analytics & Heatmap**: CPSEs (Y) × UNSPSC Segments (X) coverage matrix, reduction bar charts, and an interactive National Procurement Savings Estimator.
-9. **Immutable Audit Trail**: Cryptographically traceable append-only event log with before/after state diff inspection.
-10. **SAP/ERP Integration Gateway**: REST API key issuance, real-time webhook dispatching with test ping, and OpenAPI/Swagger documentation with cURL, Python, and Node.js snippets.
+1. Auth & Multi-Tenancy Roles: Role-based access control (`SUPER_ADMIN`, `CPSE_ANALYST`, `REVIEWER`) with JWT auth and CPSE isolation.
+2. Executive Command Dashboard: Real-time KPI stat cards, CPSE catalog distribution donut chart, 30-day deduplication velocity chart, and live Socket.IO activity feed.
+3. Material Master Catalog Upload: Drag-and-drop CSV uploader with client-side header validation, 10-row preview, and dynamic schema column mapper.
+4. AI Matching Engine (FastAPI): Python microservice powered by `sentence-transformers` (`all-MiniLM-L6-v2`) and `scikit-learn` cosine similarity with automatic fallback.
+5. Cross-CPSE Duplicate Detection: Interactive similarity threshold slider (0–100%), side-by-side specification diffs, and bulk approval/rejection workflows.
+6. Material Harmonization Workbench: Split-screen workflow with instant AI standardizations, single-key shortcuts (`A` = Approve, `R` = Reject, `E` = Edit, `N` = Next), and persistent local state.
+7. National Material Code Registry: Searchable repository of authoritative NMCs with drilldown into linked enterprise codes and CSV export.
+8. Harmonization Analytics & Heatmap: CPSEs (Y) × UNSPSC Segments (X) coverage matrix, reduction bar charts, and an interactive National Procurement Savings Estimator.
+9. Immutable Audit Trail: Cryptographically traceable append-only event log with before/after state diff inspection.
+10. SAP/ERP Integration Gateway: REST API key issuance, real-time webhook dispatching with test ping, and OpenAPI/Swagger documentation with cURL, Python, and Node.js snippets.
 
 ---
 
